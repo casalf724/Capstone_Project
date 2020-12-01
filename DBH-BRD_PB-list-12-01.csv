@@ -1,0 +1,496 @@
+Company Name  Full,Name,Address Line,City,Postal Code,Latitude,Longitude,Miles to Ft Laud,Miles to Palm Beach,D&B Hoovers Industry,Revenue (USD),Employees,Employees (All Sites),Ownership Type,Entity Type,Ultimate Parent Country/Region
+"Simple Living Technology, Inc.",,19940 Mona Rd Ste 8,Jupiter,33469-2680,26.969722,-80.0944778,58.66,17.77,Computer System Design Services,"30,000,000",200,200,Private,Independent,United States
+"Gfo Advisory Services, LLC",,150 S Us Highway 1 Ste 400,Jupiter,33477-5116,26.961246,-80.085084,58.11,17.11,Investment Services,"19,376,608",28,90,Private,Parent,United States
+AMA Holdings Inc,Gen Spring Family Offices,150 S Us Highway 1 Ste 400,Jupiter,33477-5116,26.961246,-80.085084,58.11,17.11,Investment Services,"8,237,818.70",4,60,Private,Parent,United States
+Hearx West LLC,,10455 Riverside Dr,Palm Beach Gardens,33410-4237,26.936356,-80.080017,56.41,15.37,Physicians and Health Practitioners,"136,780,000",200,200,Private,Independent,United States
+Harbourside Place LLC,,200 N Us Highway One,Jupiter,33477,26.935707,-80.082405,56.36,15.34,Banking,"5,570,269.10",,34,Private,Parent,United States
+"Group One Mortgage, Inc.",,900 E Indiantown Rd Ste 110,Jupiter,33477-5142,26.9334766,-80.0762353,56.23,15.15,Banking,"9,104,755.40",,80,Private,Parent,United States
+"Life's Abundance, Inc.",HealthyPetNet,101 Capital St,Jupiter,33458-6059,26.9279236,-80.14155,55.69,15.67,Health and Personal Care Wholesale,"18,513,643",33,33,Private,Independent,United States
+Jupiter Medical Group PA,,875 Military Trl Ste 200,Jupiter,33458-5700,26.9259186,-80.1012415,55.62,14.85,Physicians and Health Practitioners,"5,231,174",30,30,Private,Independent,United States
+"Jupiter Medical Center, Inc.",,1210 S Old Dixie Hwy,Jupiter,33458-7205,26.9225867,-80.0964992,55.4,14.57,Hospitals,"236,907,180",500,"1,500",Nonprofit,Parent,United States
+Ob Gyn Specialist of The Palm Beaches,,345 Jupiter Lakes Blvd Ste 200,Jupiter,33458-7100,26.9216942,-80.0989287,55.33,14.54,Physicians and Health Practitioners,"5,662,064.10",150,150,Private,Independent,United States
+Alloy Cladding,,15850 Guild Ct,Jupiter,33478-6436,26.9109479,-80.276994,55.14,19.32,Medical Equipment and Supplies,"5,893,024.90",29,29,Private,Independent,United States
+"Jupiter Outpatient Surgery Center, LLC",,2055 Military Trl Ste 100,Jupiter,33458-7830,26.9149595,-80.1015532,54.86,14.12,Physicians and Health Practitioners,"9,485,045.40",50,50,Private,Independent,United States
+"Mission Capital Advisors, L.L.C.",,4741 Military Trl Ste 202,Jupiter,33458-4842,26.8904469,-80.102594,53.16,12.48,Investment Services,"22,728,842",26,150,Partnership,Parent,United States
+"Access Medical Laboratories, Inc.",,5151 Corporate Way,Jupiter,33458-3101,26.8875472,-80.1053865,52.96,12.33,Diagnostic Laboratories,"10,559,444",,75,Private,Independent,United States
+District Hospital Holdings Inc.,Glades General Hospital,39200 Hooker Hwy,Belle Glade,33430-5368,26.7239624,-80.6708383,52.88,38.13,Hospitals,"27,254,740",300,300,Nonprofit,Subsidiary,United States
+"Harvard Financial Group, Inc.",,230 Celestial Way,Juno Beach,33408-2313,26.8698498,-80.0497595,52,10.68,Investment Services,"8,600,000.40",,25,Private,Parent,United States
+"Nextera Energy, Inc.",,700 Universe Blvd,Juno Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"19,204,000,000",15,"8,900",Public,Parent,United States
+Florida Power & Light Company Inc,FPL,700 Universe Blvd,Juno Beach,33408-2683,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"12,192,000,000",15,"8,700",Private,Subsidiary,United States
+"Nextera Energy Resources, LLC","Nextera Energy Resources, Nextera Energy Seabrook",700 Universe Blvd,Juno Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"3,677,526,600",100,"4,700",Private,Subsidiary,United States
+"Nextera Energy Capital Holdings, Inc.",,700 Universe Blvd,Juno Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"1,488,569,300",,"1,288",Private,Subsidiary,United States
+"Nextera Energy Duane Arnold, LLC",,700 Universe Blvd,Juno Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"430,348,850",550,550,Private,Subsidiary,United States
+"Nextera Energy Operating Services, LLC",,700 Universe Blvd,West Palm Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"262,121,580",300,335,Private,Subsidiary,United States
+"Esi California Holdings, Inc.",,700 Universe Blvd,North Palm Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Investment Services,"27,044,243",3,303,Private,Parent,United States
+"Nextera Energy Services Holdings, LLC",,700 Universe Blvd,North Palm Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"57,400,330",,152,Private,Subsidiary,United States
+"Nextera Energy Services, LLC",,700 Universe Blvd,North Palm Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"57,400,330",,140,Private,Subsidiary,United States
+E S I Geothermal Inc,FPL Energy,700 Universe Blvd Ste D13,North Palm Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"15,656,827",100,100,Private,Independent,United States
+"White Pine Hydro, LLC",,700 Universe Blvd,North Palm Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"43,139,656",2,77,Private,Parent,United States
+"Esi Energy, LLC",,700 Universe Blvd,Juno Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"110,076,930",9,77,Private,Subsidiary,United States
+FPL Energy Wyman IV LLC,,700 Universe Blvd,West Palm Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"54,771,671",,70,Private,Subsidiary,United States
+"Wind Holdings, Inc",,700 Universe Blvd,Juno Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Computer Programming,"6,718,173",1,67,Private,Subsidiary,United States
+Windlogics Inc.,,700 Universe Blvd,Juno Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Computer System Design Services,"6,166,442.90",21,67,Private,Subsidiary,United States
+"Nextera Energy Marketing, LLC",,700 Universe Blvd,North Palm Beach,33408-2657,26.8595013,-80.0581897,51.24,9.97,Electricity Generation and Distribution,"406,054,930",39,39,Private,Subsidiary,United States
+"Document Storage Systems, Inc.",DSS,12575 Us Highway 1 Ste 200,Juno Beach,33408-2478,26.85747,-80.057288,51.1,9.83,Computer Programming,"59,000,000",250,525,Private,Parent,United States
+"Hyper Network Solutions of Florida, LLC","Hyper Network Solutions, Healthy Natural Systems",11780 Us Highway 1 Ste 400N,Palm Beach Gardens,33408-3042,26.849621,-80.05835,50.56,9.29,Health and Personal Care Wholesale,"25,764,891",37,37,Private,Independent,United States
+Ksf Acquisition Corporation,Slimfast,11780 Us Highway 1 Ste 400N,Palm Beach Gardens,33408-3042,26.849621,-80.05835,50.56,9.29,Health and Personal Care Wholesale,"143,092,390",34,34,Private,Subsidiary,Ireland
+"National Dentex, LLC",,11601 Kew Gardens Ave Ste 200,Palm Beach Gardens,33410-2852,26.8474494,-80.08108,50.28,9.29,Medical Equipment and Supplies,"141,449,920",50,"1,875",Private,Subsidiary,United States
+Velocity Community Federal Credit Union,,2801 Pga Blvd Ste 120,Palm Beach Gardens,33410-2929,26.8459628,-80.0769086,50.2,9.15,Banking,"12,406,395",4,65,Private,Parent,United States
+"Doctors Outpatient Surgery Center of Jupiter, L.L.C.",Laser & Surgery Center Of Palm Beach,3602 Kyoto Gardens Dr,Palm Beach Gardens,33410-2713,26.8464381,-80.0912922,50.16,9.36,Physicians and Health Practitioners,"9,024,834.60",50,50,Private,Subsidiary,United States
+"J. Virgil, Inc.","Cason Home Loans, Mortgage300",2000 Pga Blvd Ste 3220,North Palm Beach,33408-2718,26.8432051,-80.0622236,50.09,8.86,Banking,"10,000,000",50,100,Private,Parent,United States
+"Patient Portal Technologies, Inc.",,2000 Pga Blvd Ste 4440,North Palm Beach,33408-2738,26.8432051,-80.0622236,50.09,8.86,Software,"5,518,188",,40,Public,Parent,United States
+"Bankrate, LLC",,3801 Pga Blvd Ste 555,Palm Beach Gardens,33410-2760,26.8452981,-80.0932123,50.08,9.31,Data Processing,"434,387,390",,155,Private,Subsidiary,United States
+"Third Planet Windpower, LLC",,3801 Pga Blvd Ste 904,Palm Beach Gardens,33410-2757,26.8452981,-80.0932123,50.08,9.31,Electricity Generation and Distribution,"7,802,408.20",8,30,Private,Subsidiary,United States
+Evershore Financial Group Inc.,,3300 Pga Blvd Ste 100,Palm Beach Gardens,33410-2810,26.8445184,-80.0878513,50.05,9.18,Investment Services,"6,721,578.10",,55,Private,Parent,United States
+"Apollo Funding, LLC",,6231 Pga Blvd Unit 104-308,Palm Beach Gardens,33418-4033,26.8415916,-80.1328766,49.73,10.01,Mortgage and Credit,"249,000,000",38,38,Private,Independent,United States
+"Aurora Diagnostics Holdings, LLC",,11025 Rca Center Dr Ste 300,Palm Beach Gardens,33410-4269,26.839277,-80.0963106,49.65,8.97,Diagnostic Laboratories,"284,039,000",,935,Private,Parent,United States
+"Aurora Diagnostics, LLC",,11025 Rca Center Dr Ste 300,Palm Beach Gardens,33410-4269,26.839277,-80.0963106,49.65,8.97,Diagnostic Laboratories,"73,591,400",30,923,Private,Subsidiary,Australia
+Professional Anesthesia Service Inc,,7111 Fairway Dr Ste 450,Palm Beach Gardens,33418-4200,26.8385348,-80.134397,49.52,9.88,Hospitals,"6,275,056.80",70,70,Private,Independent,United States
+"Locus Solutions, LLC",Locus Traxx Worlwide,7121 Fairway Dr Ste 400,Palm Beach Gardens,33418-3776,26.8383892,-80.1349204,49.51,9.88,Communications Equipment Manufacturing,"15,082,762",65,65,Private,Subsidiary,United States
+"Veriato, Inc.",,4440 Pga Blvd Ste 500,Palm Beach Gardens,33410-6543,26.8375464,-80.1047321,49.5,9.02,Computer Programming,"17,211,214",92,92,Private,Independent,United States
+"Water's Edge Dermatology, LLC",,600 Village Square Xing,Palm Beach Gardens,33410-4543,26.8355533,-80.07318,49.5,8.4,Physicians and Health Practitioners,"38,584,560",65,500,Private,Parent,United States
+Ameripath Holdings Inc,AmeriPath,7108 Fairway Dr Ste 335,Palm Beach Gardens,33418-3799,26.8360267,-80.1343534,49.34,9.73,Diagnostic Laboratories,"109,755,830",11,"4,300",Private,Subsidiary,United States
+"Ameripath, Inc.",,7108 Fairway Dr Ste 335,Palm Beach Gardens,33418-3799,26.8360267,-80.1343534,49.34,9.73,Diagnostic Laboratories,"109,755,830",100,"3,979",Private,Subsidiary,United States
+Legend Equities Corporation,"Legend Group, The",4600 E Park Dr Ste 300,West Palm Beach,33410-4296,26.833169,-80.094137,49.24,8.53,Investment Services,"12,145,159",,80,Private,Parent,United States
+"Biomet 3i, LLC",3i Implant Innovations,4555 Riverside Dr,Palm Beach Gardens,33410-4200,26.8330459,-80.0951324,49.23,8.54,Medical Equipment and Supplies,"138,663,120",250,250,Private,Subsidiary,United States
+Steiner Chartered Inc,North Palm Children's Physicians,3365 Burns Rd Ste 100,Palm Beach Gardens,33410-4302,26.8313941,-80.0852323,49.15,8.26,Physicians and Health Practitioners,"6,472,860.80",56,56,Private,Independent,United States
+"Palm Beach Orthopaedic Institute, P.A.",,4215 Burns Rd,Palm Beach Gardens,33410-2895,26.8313922,-80.1007614,49.09,8.54,Physicians and Health Practitioners,"30,000,000",,111,Private,Parent,United States
+"Palm Beach Gardens Community Hospital, Inc.",Palm Beach Gardens Medical Center,3360 Burns Rd,Palm Beach Gardens,33410-4323,26.8294567,-80.0868409,49.01,8.15,Hospitals,"215,657,550",,900,Nonprofit,Subsidiary,United States
+"Mortgage Works Unlimited, Inc",Mortgage Works,9112 Highway A1A Alt Ste 209,Palm Beach Gardens,33403-1451,26.8097217,-80.0762184,47.7,6.68,Mortgage and Credit,"5,043,227.20",40,56,Private,Independent,United States
+Creative Infocity Ltd,,4243 Northlake Blvd # D,Palm Beach Gardens,33410-6276,26.8093006,-80.1022909,47.56,7.16,Computer Programming,"7,499,009.10",220,220,Private,Independent,United States
+Protech Leaded Eyewear Inc,ProTech Medical,1360 N Killian Dr Ste 2,West Palm Beach,33403-1974,26.8051998,-80.0782172,47.38,6.4,Medical Equipment and Supplies,"5,224,237",30,30,Private,Independent,United States
+Palm Beach Rejuvenation Center,,8409 N Military Trl Ste 126,West Palm Beach,33410-6324,26.800798,-80.1067525,46.96,6.76,Physicians and Health Practitioners,"12,000,000",25,25,Private,Independent,United States
+"Horizon Pharmaceuticals, Inc.",,7788 Central Industrial Dr,Riviera Beach,33404-3450,26.7910927,-80.0942477,46.33,5.81,Pharmaceutical Manufacturing,"10,440,013",,55,Private,Parent,United States
+"Kindred Hospital Palm Beach, L.L.C.",Kindred Hospital The Palm Beaches,5555 W Blue Heron Blvd,Riviera Beach,33418-7815,26.782945,-80.1104015,45.72,5.85,Hospitals,"7,590,948.10","1,203","1,203",Private,Subsidiary,United States
+"3d Medical Manufacturing, Inc.","3d Machining, Tecomet",2001 N Congress Ave Ste F,Riviera Beach,33404-5101,26.7800479,-80.0889357,45.6,4.98,Medical Equipment and Supplies,"48,388,134",203,203,Private,Subsidiary,United States
+Covanta Palm Beach Resource Recovery LLC,,6501 N Jog Rd,West Palm Beach,33412-2413,26.778082,-80.135284,45.34,6.66,Electricity Generation and Distribution,"74,762,001",160,160,Private,Subsidiary,United States
+Adatif Medical Incorporated,,3660 Interstate Park Way,West Palm Beach,33404-5911,26.7759937,-80.0934741,45.3,4.87,Medical Equipment and Supplies,"5,500,000",1,36,Private,Subsidiary,Canada
+Jewish Family Services,,5841 Corporate Way Ste 200,West Palm Beach,33407-2039,26.7641484,-80.092165,44.49,4.14,Outpatient Care,"7,830,773.80",80,80,Private,Independent,United States
+"FPL Energy Services, Inc.","FPL, FPLES",6001 Village Blvd,West Palm Beach,33407-1944,26.7641171,-80.100805,44.45,4.47,Electricity Generation and Distribution,"35,210,361",6,45,Private,Subsidiary,United States
+Atlantic Kidney Centers LLC,,4700 N Congress Ave Ste 106,West Palm Beach,33407-3284,26.7630866,-80.0848334,44.45,3.83,Outpatient Care,"7,965,808.90",25,25,Private,Independent,United States
+"Florida Community Health Centers, Inc.","Clewiston Community Health Center, Indiantown Community Health Center",5827 Corporate Way Ste 100,West Palm Beach,33407-2000,26.7630792,-80.0918595,44.41,4.07,Physicians and Health Practitioners,"34,033,115",40,400,Nonprofit,Parent,United States
+"Ob/Gyn Specialists of The Palm Beaches, P.A.",,770 Northpoint Pkwy,West Palm Beach,33407-1901,26.7624606,-80.0934305,44.36,4.09,Physicians and Health Practitioners,"20,549,501",60,210,Private,Parent,United States
+Columbia Hospital (palm Beaches) Limited Partnership,West Palm Hospital,2201 45Th St,West Palm Beach,33407-2047,26.7618978,-80.0873646,44.35,3.84,Hospitals,"78,968,857",625,630,Partnership,Parent,United States
+"Delray Recovery Center, LLC",Mandala Healing Center,5410 East Ave,West Palm Beach,33407-2344,26.759939,-80.067299,44.33,3.2,Outpatient Care,"5,938,327.80",45,45,Private,Independent,United States
+"Jsr Wellness, Inc.",,5500 Village Blvd Ste 202,West Palm Beach,33407-1961,26.7622013,-80.098851,44.32,4.29,Pharmaceutical Manufacturing,"17,628,265",79,79,Private,Independent,United States
+"Three Eagles Communications Company of Lincoln, Inc","Kfor Radio, Kfrx Radio",701 Northpoint Pkwy Ste 500,West Palm Beach,33407-1960,26.7616479,-80.0954815,44.3,4.12,Broadcasting and Media,"22,698,416",24,80,Private,Parent,United States
+Palm Beach Broadcasting LLC,Wrmf Fm Palm Beach Brdcstg,701 Northpoint Pkwy Ste 500,West Palm Beach,33407-1960,26.7616479,-80.0954815,44.3,4.12,Broadcasting and Media,"5,726,333.10",42,42,Private,Independent,United States
+"West Palm Outpatient Surgery and Laser Center, Ltd.",Amsurg,200 Northpoint Pkwy,West Palm Beach,33407-1967,26.7602161,-80.0984488,44.19,4.17,Physicians and Health Practitioners,"10,859,805",80,80,Partnership,Independent,United States
+"Baptist Surgery and Endoscopy Centers, L.L.C.",Northpoint Surgery Center,200 Northpoint Pkwy,West Palm Beach,33407-1967,26.7602161,-80.0984488,44.19,4.17,Hospitals,"5,478,620.10",,51,Private,Subsidiary,United States
+Palm Beach Medical Group,,4601 N Congress Ave,West Palm Beach,33407-3381,26.7594038,-80.087447,44.18,3.7,Physicians and Health Practitioners,"5,921,712.90",65,65,Private,Independent,United States
+St Mary's Medical Center,Outpatient Program,901 45Th St,West Palm Beach,33407-2495,26.7566512,-80.0629072,44.14,2.92,Hospitals,"319,615,720","1,500","56,605",Nonprofit,Subsidiary,United States
+The Jerome Golden Center For Behavioral Health Inc,,1041 45Th St,West Palm Beach,33407-2402,26.7539135,-80.0671127,43.92,2.8,Outpatient Care,"24,218,632",10,350,Nonprofit,Parent,United States
+"Belhealth Investment Partners, LLC",BelHealth,17713 32Nd Ln N,Loxahatchee,33470-3689,26.7278449,-80.3250099,43.35,16.8,Investment Services,"79,562,332",,60,Partnership,Parent,United States
+"Solitron Devices, Inc.",,3301 Electronics Way,West Palm Beach,33407-4697,26.7413273,-80.0669381,43.06,1.98,Semiconductor and Other Electronic Component Manufacturing,"8,395,000.50",75,75,Public,Independent,United States
+"Palm Beach Pathology, P.A.",,2013 Ponce De Leon Ave,West Palm Beach,33407-6081,26.731778,-80.0523135,42.51,1.14,Physicians and Health Practitioners,"12,551,198",40,80,Private,Independent,United States
+Dermatology Associates P A of The Palm Beaches,,120 Butler St Ste A,West Palm Beach,33407-6107,26.7307376,-80.0504798,42.45,1.08,Physicians and Health Practitioners,"10,645,472",17,100,Private,Parent,United States
+Palm Beach Cancer Institute,,1309 N Flagler Dr,West Palm Beach,33401-3406,26.7248892,-80.0521826,42.04,0.66,Physicians and Health Practitioners,"13,908,212",125,200,Private,Parent,United States
+Palm Beach Cancer Institute LLC,,1309 N Flagler Dr,West Palm Beach,33401-3406,26.7248892,-80.0521826,42.04,0.66,Hospitals,"53,325,836",125,125,Private,Independent,United States
+Amth LLC,,1665 Palm Beach Lakes Blvd Ste 100,West Palm Beach,33401-2108,26.7251768,-80.0828902,41.85,1.95,Outpatient Care,"57,000,000","1,800","1,800",Private,Independent,United States
+Flagler Medical Associates P.A.,Flagler Medical Assoc,1552 Palm Beach Lakes Blvd,West Palm Beach,33401-2302,26.7237795,-80.078505,41.77,1.66,Physicians and Health Practitioners,"5,551,508.90",30,30,Private,Independent,United States
+Search Engine Partner,"SEO Trio, SEO Partner",319 Clematis St Ste 300,West Palm Beach,33401-4616,26.7136754,-80.0527501,41.27,0.12,Internet and Web Services,"5,500,000",75,75,Partnership,Independent,United States
+"Arrow Consulting & Design, LLC",Cognizant Softvision,319 Clematis St Ste 500,West Palm Beach,33401-4618,26.7136754,-80.0527501,41.27,0.12,Computer System Design Services,"5,412,581.90",39,39,Private,Subsidiary,United States
+"MD Now Medical Centers, Inc.","MD Now, MD Now Urgent Care",2007 Palm Beach Lakes Blvd,West Palm Beach,33409-6501,26.7160542,-80.0930814,41.17,2.45,Physicians and Health Practitioners,"15,000,000",12,250,Private,Subsidiary,United States
+"Vision Care Holdings, LLC",,2000 Palm Beach Lakes Blvd,West Palm Beach,33409-6503,26.7152211,-80.0915977,41.11,2.36,Physicians and Health Practitioners,"40,670,605",,700,Private,Parent,United States
+"Integra Connect, LLC",,501 S Flagler Dr Ste 600,West Palm Beach,33401-5914,26.7094579,-80.0510911,40.99,0.43,Software,"45,719,944",12,471,Private,Parent,United States
+"Medytox Solutions, Inc.",,400 S Australian Ave Fl 8,West Palm Beach,33401-5004,26.7107196,-80.0638387,40.98,0.72,Diagnostic Laboratories,"11,036,135",,107,Private,Subsidiary,United States
+Ramber Corp,Buccaneer Mortgage Company,2101 Vista Pkwy,West Palm Beach,33411-2706,26.7147449,-80.1511168,40.96,6.04,Mortgage and Credit,"5,111,393.90",50,50,Private,Independent,United States
+AMC Holdings Services Incorporated,,836 Coventry St,Boca Raton,33487-3107,26.70927,-80.056221,40.94,0.46,Health and Personal Care Wholesale,"6,615,375",33,33,Private,Independent,United States
+"Palm Beach Capital Fund I, L.P.",Palm Beach Capital,525 S Flagler Dr Ste 208,West Palm Beach,33401-5932,26.708264,-80.051289,40.91,0.51,Investment Services,"255,790,100",,"2,303",Partnership,Parent,United States
+"Cypress Capital Group, Inc.",,251 Royal Palm Way Ste 500,Palm Beach,33480-4337,26.7060079,-80.0383415,40.87,1.13,Investment Services,"9,465,496.10",,62,Private,Parent,United States
+"Ion Media Networks, Inc.","ION Television, ION Media Networks",601 Clearwater Park Rd,West Palm Beach,33401-6233,26.7088059,-80.0638387,40.84,0.79,Broadcasting and Media,"255,613,480",66,508,Private,Parent,United States
+The Society of The Four Arts Inc,,100 Four Arts Plz,Palm Beach,33480-4141,26.7060012,-80.0422877,40.83,0.94,Miscellaneous Information Services,"10,853,243",55,55,Nonprofit,Independent,United States
+"Chilton Trust Company, Llc.",,396 Royal Palm Way,Palm Beach,33480-4305,26.705515,-80.0407213,40.82,1.04,Investment Services,"6,919,995.80",25,50,Private,Parent,United States
+"Comvest Investment Partners III, L.P.",ComVest Group,525 Okeechobee Blvd Ste 1050,West Palm Beach,33401-6351,26.7066126,-80.0559808,40.76,0.62,Investment Services,"448,910,740",,"3,100",Partnership,Parent,United States
+"Comvest Capital, LLC",,525 Okeechobee Blvd Ste 1050,West Palm Beach,33401-6351,26.7066126,-80.0559808,40.76,0.62,Investment Services,"17,880,760",5,150,Private,Independent,United States
+Ntech Investment Management LLC,Intech,525 Okeechobee Blvd Ste 1800,West Palm Beach,33401-6355,26.7066126,-80.0559808,40.76,0.62,Investment Services,"10,368,351",62,86,Private,Subsidiary,United Kingdom
+Comvest Group Holdings LP,Comvest Partners,525 Okeechobee Blvd Ste 1050,West Palm Beach,33401-6351,26.7066126,-80.0559808,40.76,0.62,Investment Services,"88,692,665",,67,Partnership,Parent,United States
+"Windgen Power Usa, Inc.",,400 S Ocean Blvd Apt 213,Delray Beach,33483-6661,26.7018966,-80.0336692,40.64,1.53,Electricity Generation and Distribution,"8,204,465.90",,60,Private,Parent,United States
+"Pharmasphere, Inc.",,223 Peruvian Ave,Palm Beach,33480-4635,26.7019271,-80.0374337,40.6,1.35,Health and Personal Care Wholesale,"46,535,793",,80,Private,Parent,United States
+Qsgi Inc.,,1300 N Florida Mango Rd Ste 12,West Palm Beach,33409-5255,26.7020408,-80.0771519,40.29,1.73,Computer System Design Services,"18,974,733",4,119,Private,Parent,United States
+Logus Manufacturing Corp.,LOGUS MICROWAVE,1711 Longwood Rd Ste A,West Palm Beach,33409-6491,26.697824,-80.0768028,40,1.89,Semiconductor and Other Electronic Component Manufacturing,"10,736,029",46,46,Private,Independent,United States
+"Watermark Medical Holdings, Inc.",,1641 Worthington Rd Ste 430,West Palm Beach,33409-6707,26.6973491,-80.0752528,39.98,1.84,Ambulatory Services,"106,393,640",6,945,Private,Parent,United States
+Ocwen Financial Corporation,Ocwen,1661 Worthington Rd Ste 100,West Palm Beach,33409-6493,26.6969507,-80.0761056,39.94,1.89,Banking,"1,123,375,000",,"7,600",Public,Parent,United States
+"Ocwen Loan Servicing, LLC",,1661 Worthington Rd Ste 100,West Palm Beach,33409-6493,26.6969507,-80.0761056,39.94,1.89,Banking,"315,943,270",300,"1,981",Private,Subsidiary,United States
+"Hippocrates Health Institute, Inc.",,1466 Hippocrates Way,West Palm Beach,33411-3388,26.6983941,-80.1592553,39.84,6.64,Ambulatory Services,"17,745,911",50,50,Nonprofit,Independent,United States
+Planned Parenthood of The Palm Beach and Treasure Coast Areas Inc,,2300 N Florida Mango Rd,West Palm Beach,33409-6416,26.694064,-80.0784177,39.73,2.13,Outpatient Care,"11,408,062",18,26,Nonprofit,Subsidiary,United States
+"Sv Microwave, Inc.",,2400 Centre Park West Dr Ste 100,West Palm Beach,33409-6469,26.6935111,-80.0757884,39.71,2.05,Semiconductor and Other Electronic Component Manufacturing,"40,232,410",150,150,Private,Subsidiary,United States
+"Palms West Surgery Center, Ltd.",Palms West Surgicenter,12961 Palms West Dr,Loxahatchee,33470-4989,26.6862552,-80.2502876,39.55,12.33,Physicians and Health Practitioners,"6,900,589",65,65,Partnership,Subsidiary,United States
+Palms West Hospital Limited Partnership,Palms West Hospital,13001 Southern Blvd,Loxahatchee,33470-9203,26.6838236,-80.2525631,39.4,12.49,Hospitals,"170,852,260",700,850,Partnership,Subsidiary,United States
+"Tj Acquisition, LLC",,3654 Georgia Ave,West Palm Beach,33405-2121,26.6786725,-80.0584692,38.82,2.55,Investment Services,"227,194,430",,"1,864",Partnership,Parent,United States
+"Southeast Highway Guardrail & Attenuators, LLC",,7760 Hooper Rd,West Palm Beach,33411-3831,26.6807734,-80.1705304,38.64,7.62,Semiconductor and Other Electronic Component Manufacturing,"11,989,516",35,70,Private,Parent,United States
+Guardians Credit Union,,3469 Summit Blvd,West Palm Beach,33406-4109,26.6653859,-80.0957869,37.66,4.33,Banking,"8,052,816.40",,65,Private,Parent,United States
+"Center For Bone & Joint Surgery of The Palm Beach, LLC",,10131 Forest Hill Blvd Ofc,West Palm Beach,33414-6109,26.6537153,-80.2057689,36.94,10.33,Physicians and Health Practitioners,"10,879,812",,55,Partnership,Parent,United States
+"Wellington Regional Medical Center, LLC",,10101 Forest Hill Blvd,West Palm Beach,33414-6199,26.6518008,-80.2051152,36.8,10.35,Hospitals,"189,683,870",5,764,Private,Subsidiary,United States
+"Medical Center of Palm Beach, Inc.",,4623 Forest Hill Blvd Ste 101,West Palm Beach,33415-9120,26.6518315,-80.1145074,36.65,5.79,Physicians and Health Practitioners,"5,285,121.90",55,110,Private,Parent,United States
+"Independent Imaging, LLC",,3347 S State Road 7 Ste 100,Wellington,33449-8148,26.6286279,-80.2053465,35.21,11.14,Physicians and Health Practitioners,"18,115,480",,125,Private,Parent,United States
+Cardiology Partners P.L.,,3347 S State Road 7 Ste 203,Wellington,33449-8148,26.6286279,-80.2053465,35.21,11.14,Physicians and Health Practitioners,"9,940,774",42,42,Private,Independent,United States
+"Visual Health and Surgical Center, Inc.",,2889 10Th Ave N Ste 306,Palm Springs,33461-3045,26.6283603,-80.0870692,35.16,6.36,Physicians and Health Practitioners,"5,558,673.90",50,55,Private,Parent,United States
+"Sunrise Detoxification Center, LLC",,2328 10Th Ave N Ste 300-301,Lake Worth,33461-6606,26.6273768,-80.077632,35.15,6.26,Physicians and Health Practitioners,"11,135,263",54,200,Private,Parent,United States
+"Sunrise Detox III, LLC",,2328 10Th Ave N Ste 302,Lake Worth,33461-6612,26.6273768,-80.077632,35.15,6.26,Outpatient Care,"5,566,889.80",,74,Private,Parent,United States
+"Vision Precision Holdings, LLC",,3801 S Congress Ave,Palm Springs,33461-4140,26.619972,-80.089668,34.57,6.96,Physicians and Health Practitioners,"7,722,031.10",,"1,000",Private,Parent,United States
+"SF Gastro, Inc.",SFGA,6135 Lake Worth Rd,Greenacres,33463-3074,26.6208007,-80.1411605,34.46,8.49,Physicians and Health Practitioners,"22,000,000",32,124,Private,Subsidiary,United States
+Cypress Financial Research LLC,,221 S Federal Hwy Ste 201,Fort Lauderdale,33301-2669,26.61256,-80.0528722,34.35,7.11,Investment Services,"7,000,000",34,34,Private,Independent,United States
+"Webpower, Inc.",,7765 Lake Worth Rd 341,Lake Worth,33467-2536,26.6186129,-80.1693056,34.35,9.8,Computer Programming,"8,050,854.70",,100,Private,Independent,United States
+"Brandon, Jones, Sandall, Zeide, Kohn, Chalal & Musso, PA",Orthopedic Center,4801 S Congress Ave Fl 4,Lake Worth,33461-4746,26.60499,-80.0899394,33.53,7.96,Physicians and Health Practitioners,"6,672,646",55,65,Private,Independent,United States
+"Children's Diagnostic & Treatment Center, Inc.",,1401 S Federal Hwy,Fort Lauderdale,33316-2619,26.5986455,-80.0527501,33.41,8.07,Ambulatory Services,"17,050,549",175,175,Nonprofit,Subsidiary,United States
+Paramount Funding Group Inc,,212 E Ocean Ave,Lake Worth,33462-3207,26.584141,-80.050354,32.44,9.07,Mortgage and Credit,"83,000,000",25,25,Private,Independent,United States
+The Treatment Center of The Palm Beaches LLC,"Treatment Center, The",4905 Lantana Rd,Lake Worth,33463-6915,26.5899138,-80.1214853,32.36,9.64,Outpatient Care,"33,045,818.00",300,300,Private,Independent,United States
+"Caridad Center, Inc.",Caridad Center,8645 Boynton Beach Blvd,Boynton Beach,33472-4415,26.5293976,-80.1824931,28.25,15.13,Physicians and Health Practitioners,"8,498,928.10",56,56,Nonprofit,Independent,United States
+"Mackinac Savings Bank, Fsb",,280 N Congress Ave,Boynton Beach,33426-4212,26.5273159,-80.0891406,28.2,13.19,Banking,"5,823,000",12,50,Private,Parent,United States
+"Medexpress Urgent Care of Boynton Beach, LLC",MEDEXPRESS URGENT CARE,7593 Boynton Beach Blvd Ste 190,Boynton Beach,33437-6164,26.5291254,-80.165447,28.16,14.62,Physicians and Health Practitioners,"12,238,361",50,252,Private,Subsidiary,United States
+"Medical Specialists of The Palm Beaches, Inc.",,7730 Boynton Beach Blvd,Boynton Beach,33437-6155,26.5273055,-80.1688042,28.04,14.83,Physicians and Health Practitioners,"37,825,924",31,290,Private,Parent,United States
+"Bethesda Hospital, Inc.","Bethesda Hospital West, Bethesda Hospital East",2815 S Seacrest Blvd,Boynton Beach,33435-7995,26.5042025,-80.0702956,26.79,14.63,Hospitals,"299,867,580",110,304,Nonprofit,Subsidiary,United States
+"Orthopaedic Surgery Associates, PA",ORTHOPAEDIC SURGICAL ASSOCIATES,2828 S Seacrest Blvd Ste 204,Boynton Beach,33435-7944,26.5027578,-80.0689117,26.7,14.73,Physicians and Health Practitioners,"5,070,313.90",44,80,Private,Parent,United States
+"Van Houten & Zann Md, PA Inc",Orthopedic Surgery Associates,2828 S Seacrest Blvd Ste 204,Boynton Beach,33435-7944,26.5027578,-80.0689117,26.7,14.73,Physicians and Health Practitioners,"6,455,225.90",40,40,Private,Independent,United States
+SDS Dental Inc.,Summit Dental Systems,1280 Sw 27Th Ave,Pompano Beach,33069-4320,26.5012776,-80.0853789,26.44,14.93,Medical Equipment and Supplies,"8,000,000",28,28,Private,Independent,United States
+"Lanlogics, LLC",,14000 S Military Trl Ste 202,Delray Beach,33484-2600,26.4691066,-80.1215289,24.01,17.54,Computer System Design Services,"10,619,485",180,180,Private,Independent,United States
+The Watershed Treatment Programs Inc,,200 Congress Park Dr Ste 100,Delray Beach,33445-4618,26.4562255,-80.0957891,23.27,18.1,Hospitals,"19,337,547",,250,Private,Parent,United States
+"R.M. Stark & Co., Inc.",,701 Se 6Th Ave Ste 100,Delray Beach,33483-5186,26.4505877,-80.0665452,23.19,18.32,Investment Services,"8,968,772.90",8,100,Private,Parent,United States
+Ecometry Corporation,Escalate Retail,1615 S Congress Ave Ste 100,Delray Beach,33445-6326,26.4378874,-80.0914755,22.05,19.33,Computer Programming,"22,531,948",180,600,Private,Subsidiary,United States
+"Blue Martini Software, Inc.",,1615 S Congress Ave Ste 200,Delray Beach,33445-6326,26.4378874,-80.0914755,22.05,19.33,Computer Programming,"12,775,448",210,210,Private,Subsidiary,United States
+"Technical Software Services, Inc.",Techsoft,1615 S Congress Ave Ste 103,Delray Beach,33445-6326,26.4378874,-80.0914755,22.05,19.33,Computer System Design Services,"7,415,322.80",42,42,Private,Independent,United States
+Arthritis Associates of South Florida,,5130 Linton Blvd Ste F7,Delray Beach,33484-6597,26.4385664,-80.123815,21.9,19.62,Physicians and Health Practitioners,"5,180,658.80",,55,Partnership,Independent,United States
+"Delray Ambulatory Surgical and Laser Center, LLC",Delray Beach Surgical Center,4800 Linton Blvd Ste B,Delray Beach,33445-6595,26.4380306,-80.1187806,21.88,19.59,Physicians and Health Practitioners,"6,737,981.80",50,50,Partnership,Independent,United States
+Positiveid Corporation,PositiveID,1690 S Congress Ave Ste 201,Delray Beach,33445-6386,26.4353596,-80.0932273,21.86,19.51,Pharmaceutical Manufacturing,"5,359,000.20",,30,Private,Parent,United States
+The Center For Hematology-Oncology P A,,6282 Linton Blvd,Delray Beach,33484-6416,26.4383463,-80.1430014,21.85,19.94,Physicians and Health Practitioners,"5,228,025.90",26,50,Private,Parent,United States
+"South County Mental Health Center, Inc.",,16158 S Military Trl,Delray Beach,33484-6502,26.4368497,-80.1214853,21.79,19.71,Outpatient Care,"14,674,666",75,240,Nonprofit,Parent,United States
+Delray Eye Associates PA,,16201 S Military Trl,Delray Beach,33484-6503,26.4368927,-80.1227515,21.79,19.72,Physicians and Health Practitioners,"6,471,505.20",33,33,Private,Independent,United States
+Peopleticker LLC,,60 Pelican Pointe Dr APT 202,Delray Beach,33483-8032,26.4231074,-80.0722584,21.26,20.24,Computer System Design Services,"21,086,000",516,516,Private,Independent,United States
+"Sterling 5, Inc.",sterling 5,950 Peninsula Corporate Cir Ste 1016,Boca Raton,33487-1385,26.4209412,-80.0974015,20.84,20.53,Computer Programming,"12,500,000",122,122,Private,Independent,United States
+"Caron of Florida, Inc.",Caron Renaissance and Caron Ocean Drive,7789 Nw Beacon Square Blvd,Boca Raton,33487-1326,26.4177413,-80.0979688,20.62,20.76,Hospitals,"20,949,202",700,700,Nonprofit,Independent,United States
+"Dcr System House, Inc.",,7795 Nw Beacon Square Blvd Ste 201,Boca Raton,33487-1394,26.4177838,-80.0985797,20.61,20.76,Computer System Design Services,"484,870,570",85,85,Private,Independent,United States
+"Dcr Workforce, Inc.",,7795 Nw Beacon Square Blvd Ste 201,Boca Raton,33487-1394,26.4177838,-80.0985797,20.61,20.76,Computer System Design Services,"702,075,070",82,82,Private,Subsidiary,United States
+"Computer Software & Solutions International, LLC",CSSI,6650 Park Of Commerce Blvd,Boca Raton,33487-8224,26.4074971,-80.095656,19.94,21.44,Computer Programming,"34,634,365",275,275,Private,Independent,United States
+Revelex Corporation,,6405 Congress Ave Ste 120,Boca Raton,33487-2861,26.4058298,-80.1026195,19.76,21.61,Computer System Design Services,"13,223,740",70,70,Private,Independent,United States
+"Statetrust Capital, LLC",,1750 Clint Moore Rd,Boca Raton,33487-2707,26.4073025,-80.1186046,19.76,21.67,Investment Services,"11,109,208",55,55,Private,Subsidiary,United States
+Hockeytech Inc.,,3785 Coventry Ln,Boca Raton,33496-4062,26.4078869,-80.1558977,19.76,22.18,Computer Programming,"8,000,000",2,75,Private,Subsidiary,United States
+"Datamax System Solutions, Inc.",,6251 Park Of Commerce Blvd Ste B,Boca Raton,33487-8232,26.4041872,-80.0979251,19.69,21.69,Computer System Design Services,"10,000,000",45,50,Private,Parent,United States
+Kc 1 LLC,"Keratin Complex, Smoothing Therapy by Coppola",6400 Congress Ave Ste 2000,Boca Raton,33487-2850,26.4034748,-80.1014596,19.61,21.76,Health and Personal Care Wholesale,"9,817,490.60",25,25,Private,Independent,United States
+"Boca Systems, Inc.",,1065 S Rogers Cir,Boca Raton,33487-2816,26.4034901,-80.1082099,19.56,21.82,Computer and Peripheral Equipment Manufacturing,"27,853,359",135,135,Private,Independent,United States
+Scriptlogic Corporation,,6000 Broken Sound Pkwy Nw Fl 2,Boca Raton,33487-2712,26.4030027,-80.1150287,19.48,21.93,Computer Programming,"13,224,878",100,180,Private,Subsidiary,United States
+"Bio-Engineered Supplements & Nutrition, Inc.",BSN,5901 Broken Sound Pkwy Nw,Boca Raton,33487-2773,26.4024364,-80.1167301,19.44,21.98,Health and Personal Care Wholesale,"48,573,486",130,130,Private,Subsidiary,Ireland
+"TBG Nms Holdings, Inc.",,951 Broken Sound Pkwy NW,Boca Raton,33487-3507,26.4013745,-80.10735,19.42,21.96,Dentists,"24,717,199",,331,Private,Parent,United States
+"Sage Dental Management, LLC",Sage Dental,951 Broken Sound Pkwy NW Ste 250,Boca Raton,33487-3506,26.4013745,-80.10735,19.42,21.96,Dentists,"24,717,199",,328,Private,Subsidiary,United States
+Smartmatic Corporation,,1001 Broken Sound Pkwy Nw Ste D,Boca Raton,33487-3532,26.4013129,-80.108952,19.41,21.98,Computer and Peripheral Equipment Manufacturing,"13,349,375",10,125,Private,Subsidiary,United Kingdom
+"Cancer Treatment Centers of America, Inc.",CTCA,5900 Broken Sound Pkwy Nw,Boca Raton,33487-2797,26.4015062,-80.1145052,19.38,22.02,Hospitals,"105,553,440",153,"1,900",Private,Parent,United States
+"Cancer Treatment Centers of America Global, Inc.",,5900 Broken Sound Pkwy Nw,Boca Raton,33487-2797,26.4015062,-80.1145052,19.38,22.02,Physicians and Health Practitioners,"166,592,990",110,110,Private,Independent,United States
+Virtualworks Group Inc.,,5301 N Federal Hwy Ste 230,Boca Raton,33487-4910,26.3960008,-80.0773265,19.36,22.13,Computer Programming,"6,171,264.20",,28,Private,Parent,United States
+"Sensus Healthcare, Inc.",,851 Broken Sound Pkwy NW Ste 215,Boca Raton,33487-3635,26.3998848,-80.1036412,19.35,22.03,Medical Equipment and Supplies,"27,263,248",45,45,Public,Independent,United States
+"Champion Solutions Group, Inc.",Message Ops,791 Park OF Commerce Blvd Ste 200,Boca Raton,33487-3634,26.398979,-80.100456,19.31,22.06,Computer System Design Services,"107,000,000",100,130,Private,Independent,United States
+"Krs Global Biotechnology, Inc.",KRS Global Biotechnology Manufacturing,791 Park OF Commerce Blvd Ste 600,Boca Raton,33487-3633,26.398979,-80.100456,19.31,22.06,Pharmaceutical Manufacturing,"13,058,841",40,40,Private,Subsidiary,United States
+Client First Settlement Funding LLC,,301 E Yamato Rd Ste 3200,Boca Raton,33431-4934,26.3956965,-80.0795088,19.31,22.16,Banking,"39,669,830",120,120,Private,Independent,United States
+Csl Plasma Inc.,,900 Broken Sound Pkwy NW FL 4,Boca Raton,33487-3513,26.3987365,-80.1062767,19.25,22.13,Ambulatory Services,"90,189,110",3,620,Private,Subsidiary,Australia
+3cinteractive Corp.,3 C i,750 Park OF Commerce Blvd Ste 400,Boca Raton,33487-3612,26.3973,-80.0999323,19.2,22.17,Computer Programming,"18,309,717",85,85,Private,Subsidiary,United Kingdom
+"Mix Telematics North America, Inc.",,750 Park OF Commerce Blvd Ste 100,Boca Raton,33487-3611,26.3973,-80.0999323,19.2,22.17,Data Processing,"5,422,860.10",25,29,Private,Subsidiary,South Africa
+Campus Management Corp.,Talisma,5201 Congress Ave Ste C220,Boca Raton,33487-3600,26.3970556,-80.1042957,19.15,22.23,Computer System Design Services,"106,591,800",180,800,Private,Parent,United States
+"Williams Babbit & Weisman, Inc.",,1001 W Yamato Rd Ste 311,Boca Raton,33431-4403,26.396008,-80.1089207,19.04,22.34,Business Support Services,"5,354,010.10",27,35,Private,Independent,United States
+"Airspan Networks, Inc.",Airspan,777 W Yamato Rd Ste 310,Boca Raton,33431-4406,26.3949117,-80.1004768,19.03,22.34,Communications Equipment Manufacturing,"51,224,327",30,230,Public,Parent,United States
+Biotest Pharmaceuticals Corporation,Biotest Plasma Center,901 W Yamato Rd Ste 101,Boca Raton,33431-4409,26.3953274,-80.105692,19.02,22.36,Pharmaceutical Manufacturing,"157,336,960",50,400,Private,Subsidiary,Spain
+"Cortera, Inc.",,901 W Yamato Rd Ste 210E,Boca Raton,33431-4497,26.3953274,-80.105692,19.02,22.36,Business Support Services,"35,478,401",,280,Private,Parent,United States
+"Flexshopper, Inc.",FlexShopper,901 W Yamato Rd Ste 260,Boca Raton,33431-4415,26.3953274,-80.105692,19.02,22.36,Banking,"88,789,886",,180,Public,Parent,United States
+Philips Healthcare,IntelliSpace Event Management,951 W Yamato Rd Ste 175W,Boca Raton,33431-4444,26.3952694,-80.1073346,19,22.38,Computer Programming,"66,819,778",900,900,Private,Subsidiary,Netherlands
+"Therapeuticsmd, Inc.",TherapeuticsMD,951 W Yamato Rd Ste 220,Boca Raton,33431-4440,26.3952694,-80.1073346,19,22.38,Pharmaceutical Manufacturing,"49,646,938",,173,Public,Parent,United States
+"National Pain Research Institute, LLC",,5400 Broken Sound Blvd Nw,Boca Raton,33487-3521,26.3949125,-80.1102296,18.96,22.43,Physicians and Health Practitioners,"8,178,455.40",13,60,Private,Subsidiary,United States
+"Telit Iot Platforms, LLC",Telit IOT Platforms,5300 Broken Sound Blvd Nw Ste 150,Boca Raton,33487-3535,26.3950578,-80.1123238,18.95,22.44,Magnetic and Optical Media Manufacturing,"337,500,000",,142,Private,Subsidiary,United Kingdom
+"Quantum Properties, L.P.",Promise Hospital of San Diego,999 W Yamato Rd Ste 300,Boca Raton,33431-4476,26.3946203,-80.1087579,18.95,22.44,Ambulatory Services,"22,875,284",300,300,Private,Independent,United States
+"Sun Capital, Inc.",,999 W Yamato Rd Ste 300,Boca Raton,33431-4476,26.3946203,-80.1087579,18.95,22.44,Banking,"14,507,765",80,80,Private,Independent,United States
+"Mdvip, LLC",,4950 Communication Ave Ste 100,Boca Raton,33431-3308,26.3929373,-80.110687,18.82,22.57,Hospitals,"30,586,580",54,54,Private,Subsidiary,United States
+"Mobilehelp, LLC",Mobile,5050 Conference Way N Ste 125,Boca Raton,33431-4462,26.3928052,-80.109732,18.82,22.57,Medical Equipment and Supplies,"20,914,375",70,200,Private,Independent,United States
+"Secon, Inc.",Secon,4955 Technology Way,Boca Raton,33431-3367,26.3917788,-80.1031818,18.8,22.58,Ambulatory Services,"6,000,000",30,30,Private,Subsidiary,United States
+"Twinlab Holdings, Inc.","IdeaSphere, Rebus Publishing",4800 T Rex Ave,Boca Raton,33431-4479,26.3922784,-80.1096063,18.78,22.6,Pharmaceutical Manufacturing,"99,474,419",23,500,Private,Parent,United States
+Twinlab Consolidated Holdings Inc.,TCH,4800 T Rex Ave Ste 305,Boca Raton,33431-4479,26.3922784,-80.1096063,18.78,22.6,Pharmaceutical Manufacturing,"73,459,999",,87,Private,Parent,United States
+"Independent Portfolio Consultants, Inc",,5002 T Rex Ave Ste 225,Boca Raton,33431-4433,26.3916659,-80.1062905,18.76,22.61,Investment Services,"7,653,569.20",31,31,Private,Independent,United States
+"Modernizing Medicine, Inc.",,4850 Network Way Ste 200,Boca Raton,33431,26.3909506,-80.1062235,18.71,22.66,Software,"107,696,600",,500,Private,Parent,United States
+"Modernizing Medicine Gastroenterology, Inc.",GMED,4850 Network Way Ste 200,Boca Raton,33431,26.3909506,-80.1062235,18.71,22.66,Software,"12,872,588",125,125,Private,Subsidiary,United States
+"Cloudoptix, LLC",,4620 Nw 23Rd Ter,Boca Raton,33431-8429,26.3919286,-80.132347,18.65,22.89,Computer Programming,"5,000,000",100,100,Private,Independent,United States
+Lexisnexis Claims Solutions Inc.,Data Base Technologies,4530 Conference Way S,Boca Raton,33431-4489,26.387889,-80.1088046,18.48,22.9,Computer Programming,"12,293,366",260,260,Private,Subsidiary,United Kingdom
+"Tlfo, LLC",,4530 Conference Way S,Boca Raton,33431-4489,26.387889,-80.1088046,18.48,22.9,Computer Programming,"19,025,896",175,175,Private,Subsidiary,United States
+"Transunion Risk and Alternative Data Solutions, Inc.",TLO,4530 Conference Way S,Boca Raton,33431-4489,26.387889,-80.1088046,18.48,22.9,Computer Programming,"13,772,013",99,99,Private,Subsidiary,United States
+"Mri Radiology Network, P.A.",Mri RadiUniversity Mri And Diagnostic Imaging Centers Of Boca Raton,3848 Fau Blvd Ste 200,Boca Raton,33431-6437,26.3838639,-80.0972467,18.31,23.08,Physicians and Health Practitioners,"11,818,618",140,140,Private,Independent,United States
+"Coppercom, Inc.","Coppercom, A Heico",3600 Fau Blvd Ste 100,Boca Raton,33431-6474,26.3827476,-80.0967033,18.24,23.15,Communications Equipment Manufacturing,"18,559,322",120,120,Private,Subsidiary,United States
+Skillsoft Inc,,20283 State Road 7 Ste 300,Boca Raton,33498-6903,26.3737431,-80.2048101,17.79,25.4,Computer System Design Services,"6,000,000",41,41,Private,Independent,United States
+"Metropolitan Health Networks, Inc.",METCARE,2900 N Military Trl Ste 201,Boca Raton,33431-6308,26.3762551,-80.1209258,17.61,23.81,Physicians and Health Practitioners,"46,043,423",115,"1,140",Private,Subsidiary,United States
+"Unify, Inc.",Unify Enterprise Communications,2650 N Military Trl Ste 250,Boca Raton,33431-6390,26.3753904,-80.1195658,17.56,23.86,Communications Equipment Manufacturing,"62,389,999",250,850,Private,Subsidiary,France
+"Red Violet, Inc.",,2650 N Military Trl Ste 300,Boca Raton,33431-6345,26.3753904,-80.1195658,17.56,23.86,Data Processing,"30,285,999",,97,Public,Parent,United States
+"Ebizsoft, Inc",,12525 Orange Dr Ste 711,Davie,33330-4308,26.010815,-80.396034,17.48,53.13,Computer System Design Services,"6,076,149.90",,75,Private,Parent,United States
+"Global Jet Capital, Inc.",,2500 N Military Trl Ste 475,Boca Raton,33431-6324,26.3730657,-80.1202638,17.39,24.02,Banking,"14,514,808",4,50,Private,Parent,United States
+Strategic Mapping Inc.,,7169 Woodbridge Cir,Boca Raton,33434-4231,26.3729179,-80.1553962,17.34,24.5,Computer Programming,"5,000,000",6,40,Private,Parent,United States
+Sun American Bancorp,,9293 Glades Rd,Boca Raton,33434-3905,26.3685709,-80.191257,17.28,25.44,Banking,"38,259,293",,117,Private,Parent,United States
+"Jvb Financial Group., L.L.C.",,1825 Nw Corporate Blvd Ste 100,Boca Raton,33431-8554,26.3715055,-80.1223403,17.28,24.15,Investment Services,"6,590,357.80",40,60,Private,Subsidiary,United States
+"Intensive Care Consortium, Inc.",ICC,1875 Nw Corporate Blvd Ste 207,Boca Raton,33431-8550,26.3711138,-80.1228039,17.25,24.18,Physicians and Health Practitioners,"6,480,000",35,35,Private,Subsidiary,United States
+Beachway Therapy Center LLC,Beachway Therapy Center Delray Beach,1700 N Dixie Hwy,West Palm Beach,33407-6504,26.3654946,-80.0848334,17.2,24.26,Outpatient Care,"5,877,377",44,44,Private,Independent,United States
+"Garda CL Technical Services, Inc.",Garda Cash Logistics,2000 Nw Corporate Blvd,Boca Raton,33431-7304,26.37015,-80.124071,17.18,24.26,Mortgage and Credit,"1,149,277,600",100,"3,000",Private,Subsidiary,United Kingdom
+Aml Diagnostics Inc.,,154 Nw 16Th St,Boca Raton,33432-1607,26.3643075,-80.0881065,17.08,24.36,Diagnostic Laboratories,"16,000,000",35,35,Private,Independent,United States
+"Bendcare, LLC",,2255 Glades Rd Ste 228W,Boca Raton,33431-7391,26.368734,-80.1263771,17.07,24.38,Ambulatory Services,"240,000,000",,75,Private,Parent,United States
+Legacy Bank of Florida,,2300 Glades Rd Ste 140W,Boca Raton,33431-8516,26.3671112,-80.1278541,16.95,24.51,Banking,"21,698,999",,32,Private,Parent,United States
+Boca Raton Outpatient Surgery & Laser Center Ltd,,501 Glades Rd,Boca Raton,33432-1419,26.3627845,-80.0963979,16.88,24.52,Physicians and Health Practitioners,"6,328,908",55,55,Partnership,Subsidiary,United States
+Boca Raton Orthopedic,"Quinn, Wollowick, Purita, Schosheim, Kresbach & Stewart",660 Glaze Rd,Boca Raton,33486,26.363012,-80.100426,16.85,24.53,Physicians and Health Practitioners,"6,000,000",30,30,Private,Independent,United States
+"Central Dynamics, LLC","Cendyn, Cendyn Spaces",980 N Federal Hwy Ste 200,Boca Raton,33432-2711,26.359532,-80.0830876,16.82,24.67,Computer System Design Services,"66,824,860",,350,Private,Parent,United States
+"Amzak Capital Management, Llc.",,980 N Federal Hwy Ste 315,Boca Raton,33432-2744,26.359532,-80.0830876,16.82,24.67,Investment Services,"19,216,106",205,225,Private,Subsidiary,United States
+"For Eyes Optical Company of Coconut Grove, Inc.",For Eyes Optical Co,3601 Sw 160Th Ave Ste 400,Miramar,33027-6312,25.9757487,-80.3582959,16.76,54.51,Medical Equipment and Supplies,"76,848,572",200,"1,000",Private,Subsidiary,Bermuda
+Vohra Wound Physicians Mgnt LLC,,3601 Sw 160Th Ave Ste 250,Miramar,33027-6314,25.9757487,-80.3582959,16.76,54.51,Physicians and Health Practitioners,"7,884,707.90",75,75,Partnership,Independent,United States
+"Vohra Health Services, P.A.",,3601 Sw 160Th Ave Ste 250,Miramar,33027-6314,25.9757487,-80.3582959,16.76,54.51,Physicians and Health Practitioners,"6,923,673.20",57,57,Private,Independent,United States
+"Boca Radiology Group, P.A.",,951 Nw 13Th St Ste 1C,Boca Raton,33486-2337,26.3619117,-80.1055174,16.73,24.65,Physicians and Health Practitioners,"5,804,153",48,48,Private,Independent,United States
+Boca Raton Rehabilitation Center,BOCA RATON REHABILITATION CENTER,755 Meadows Rd,Boca Raton,33486-2384,26.3607384,-80.1024195,16.68,24.7,Outpatient Care,"11,741,157",99,99,Private,Independent,United States
+Eye Associates of Boca Raton,Jeffrey M Perelman Md Facs,950 Nw 13Th St,Boca Raton,33486-2310,26.360908,-80.104863,16.67,24.71,Physicians and Health Practitioners,"27,764,872",408,408,Private,Independent,United States
+Ear Nose and Throat Associates of South Florida,Boca Raton Community Hospital,900 Nw 13Th St Ste 206,Boca Raton,33486-2395,26.3606621,-80.1040965,16.66,24.72,Physicians and Health Practitioners,"6,862,723.80",25,60,Private,Parent,United States
+"Sun Capital Partners, Inc.",,5200 Town Center Cir Ste 600,Boca Raton,33486-1045,26.3615634,-80.1241899,16.58,24.85,Investment Services,"7,373,704,100",100,"76,615",Private,Parent,United States
+"Sun Capital Advisors, Inc.",,5200 Town Center Cir Ste 600,Boca Raton,33486-1045,26.3615634,-80.1241899,16.58,24.85,Investment Services,"7,728,139.90",,33,Private,Independent,United States
+"Boca Raton Regional Hospital, Inc.",Lynn Regional Cancer Center Of Boca Raton,800 Meadows Rd,Boca Raton,33486-2368,26.3585783,-80.1022013,16.53,24.85,Hospitals,"424,642,300","1,800","1,917",Nonprofit,Subsidiary,United States
+"West Boca Medical Center, Inc.",THC,21644 State Road 7,Boca Raton,33428-1899,26.3561486,-80.1991879,16.53,26.42,Hospitals,"143,014,420",835,835,Private,Independent,United States
+"John W. Henry & Company, Inc.",,433 Plaza Real Ste 365,Boca Raton,33432-3945,26.3554909,-80.0855466,16.51,24.96,Investment Services,"12,645,053",,60,Private,Parent,United States
+"Tenet Florida Physician Services, L.L.C.",,9960 Central Park Blvd N Ste 400,Boca Raton,33428-1705,26.3552215,-80.2009749,16.49,26.52,Physicians and Health Practitioners,"18,633,345",,104,Private,Subsidiary,United States
+Ithink Financial Credit Union,,1000 Nw 17Th Ave,Delray Beach,33445-2555,26.3598072,-80.1189332,16.49,24.91,Banking,"61,038,528",160,235,Private,Parent,United States
+Pharmalogic Holdings Corp.,,1 S Ocean Blvd Ste 206,Boca Raton,33432-5143,26.3511166,-80.0710239,16.44,25.2,Health and Personal Care Wholesale,"17,650,343",44,45,Private,Parent,United States
+Accurate Software Solutions LLC,,16386 Sw 8Th St,Hollywood,33027-1075,25.9999246,-80.3666262,16.24,53.13,Computer Programming,"6,454,685.20","1,025","1,025",Private,Subsidiary,United States
+United Wireless Technologies Inc.,,300 Se 5Th Ave Apt 8180,Boca Raton,33432-5503,26.3494131,-80.0778068,16.22,25.34,Computer and Peripheral Equipment Manufacturing,"182,000,000",26,26,Private,Independent,United States
+"Mdlive, Inc.",,3350 Sw 148Th Ave Ste 300 # 309,Miramar,33027-3259,25.9768854,-80.3450938,16.06,54.16,Ambulatory Services,"46,000,000",220,250,Private,Parent,United States
+Summit Brokerage Services Inc,,595 S Federal Hwy Ste 500,Boca Raton,33432-5542,26.344723,-80.0871297,15.77,25.71,Investment Services,"16,577,879",79,80,Private,Subsidiary,United States
+Clearly Derm LLC,,7050 W Palmetto Park Rd Ste 30,Boca Raton,33433-3463,26.348426,-80.1577599,15.66,26.17,Pharmaceutical Manufacturing,"5,595,876.20",,55,Private,Parent,United States
+"Advanced Answers On Demand, Inc.",AOD Software,11575 Heron Bay Blvd,Coral Springs,33076-3304,26.3091166,-80.2818708,15.51,31.44,Computer Programming,"18,391,476",,110,Private,Parent,United States
+"Elizabeth Arden International Holding, Inc.",,2400 Sw 145Th Ave Fl 2,Miramar,33027-4230,25.9869202,-80.3421114,15.49,53.44,Health and Personal Care Wholesale,"74,909,393",,272,Private,Subsidiary,United States
+"United Data Technologies, Inc.",U D T,2900 Monarch Lakes Blvd Ste 300,Miramar,33027-3987,25.9818652,-80.3364049,15.43,53.65,Computer System Design Services,"83,705,948",80,120,Private,Parent,United States
+"Nighthawk Radiology Holdings, Inc.",,5944 Coral Ridge Dr Ste 276,Coral Springs,33076-3300,26.3047669,-80.2804669,15.21,31.67,Physicians and Health Practitioners,"7,625,701.90",,240,Private,Subsidiary,United States
+Unite Parent Corp.,,2000 Ultimate Way,Fort Lauderdale,33326-3643,26.0969179,-80.3843933,15.06,47.41,Software,"1,140,543,900",,"5,113",Private,Parent,United States
+The Ultimate Software Group Inc,Ultimate Software,2000 Ultimate Way,Weston,33326-3643,26.0969179,-80.3843933,15.06,47.41,Software,"1,140,543,900",,"5,113",Private,Subsidiary,United States
+"Odeveloper, Inc.",Amplexus International of Odeveloper,2645 Executive Park Dr Ste 140,Weston,33331-3624,26.0859542,-80.3742598,14.55,47.83,Computer System Design Services,"9,713,578.20",7,72,Private,Parent,United States
+"Women's Healthcare Associates, P.A.",,6853 Sw 18Th St Ste 301,Boca Raton,33433-7056,26.3326426,-80.1507839,14.55,27.13,Physicians and Health Practitioners,"5,727,384.10",,42,Private,Parent,United States
+"Da Vinci Systems, Inc.",,124 Th Ave,Coral Springs,33065,26.285105,-80.291168,14.52,33.18,Communications Equipment Manufacturing,"11,885,407",95,95,Private,Subsidiary,United States
+Power Financial Credit Union,,2020 Nw 150Th Ave Ste 100,Pembroke Pines,33028-2890,26.0274174,-80.3487248,14.34,50.95,Banking,"23,432,028",45,45,Private,Independent,United States
+"Anda, Inc.",,2915 Weston Rd,Weston,33331-3627,26.0819572,-80.3698667,14.33,47.97,Health and Personal Care Wholesale,"366,895,080",302,377,Private,Subsidiary,Israel
+"Florida Community Banks, Inc.",,2500 Weston Rd Ste 300,Fort Lauderdale,33331-3617,26.085871,-80.3696058,14.27,47.72,Banking,"60,777,973",180,180,Private,Independent,United States
+"Sentry Data Systems, Inc.",,800 Fairway Dr Ste 400,Deerfield Beach,33441-1830,26.3270399,-80.1148366,14.26,27.11,Computer Programming,"47,615,501",,180,Private,Parent,United States
+Paragon Enterprises Inc.,ParagonMeds,3300 Corporate Ave Ste 114,Weston,33331-3504,26.0761995,-80.3671699,14.25,48.27,Health and Personal Care Wholesale,"12,404,392",,80,Private,Parent,United States
+Apotex Corp.,,2400 N Commerce Pkwy Ste 400,Weston,33326-3253,26.0887732,-80.3692578,14.21,47.53,Pharmaceutical Manufacturing,"81,165,901",,80,Private,Subsidiary,Canada
+"Weston Outpatient Surgical Center, Ltd.",Amsurg,2229 N Commerce Pkwy Ste 100,Weston,33326-3283,26.0925779,-80.3687358,14.14,47.27,Physicians and Health Practitioners,"7,862,433",50,50,Partnership,Independent,United States
+Cleveland Clinic Florida Foundation,,2950 Cleveland Clinic Blvd,Weston,33331-3609,26.0817288,-80.3649907,14.04,47.87,Hospitals,"141,053,050",450,"1,185",Nonprofit,Subsidiary,United States
+"JM Dealer Services, Inc.","JM Solutions, JM Dealer Services",500 Jim Moran Blvd,Deerfield Beach,33442-1723,26.3234466,-80.1181698,13.99,27.39,Computer Programming,"8,551,041.60",,142,Private,Subsidiary,United States
+"Advantage Medical Electronics, LLC",AMC,11711 Nw 39Th St,Coral Springs,33065-2511,26.279476,-80.284758,13.96,33.36,Medical Equipment and Supplies,"5,745,170.10",,30,Private,Subsidiary,United States
+"American Health Associates, Inc.",,15712 Sw 41St St Ste 16,Davie,33331-1538,26.0672166,-80.3586439,13.9,48.63,Diagnostic Laboratories,"82,000,000",302,"1,102",Private,Parent,United States
+Inceptra LLC,,1900 N Commerce Pkwy,Weston,33326-3236,26.0938327,-80.3649515,13.9,47.1,Software,"13,795,336",21,78,Private,Parent,United States
+"Ambient Healthcare of Central Florida, Inc.",,11820 Nw 37Th St,Coral Springs,33065-2537,26.2765853,-80.2843092,13.79,33.53,Health and Personal Care Wholesale,"26,777,996",5,63,Private,Subsidiary,United States
+World Omni Financial Corp.,Southeast Toyota Finance,190 Jim Moran Blvd,Deerfield Beach,33442-1702,26.3202447,-80.1193913,13.76,27.62,Banking,"95,300,896",174,840,Private,Subsidiary,United States
+Gastrocare LLP,Digestive Care,5431 N University Dr Ste 101,Coral Springs,33067-4639,26.2978765,-80.2475964,13.75,31.26,Physicians and Health Practitioners,"19,751,501",,280,Private,Parent,United States
+"Parkcreek Surgery Center, Lllp",Parkcreek Surgery Center,6806 N State Road 7,Coconut Creek,33073-4304,26.3142258,-80.2011094,13.74,29.2,Physicians and Health Practitioners,"11,749,788",75,75,Partnership,Independent,United States
+Data Scan Holdings LLC,,100 Jim Moran Blvd,Deerfield Beach,33442-1702,26.3187414,-80.1194349,13.66,27.72,Internet and Web Services,"11,126,463",,173,Private,Subsidiary,United States
+Jpay LLC,,10981 Marks Way,Miramar,33025-1703,25.9784388,-80.2921193,13.57,53.05,Computer Programming,"13,969,457",,86,Private,Subsidiary,United States
+D V M Pharmaceuticals Inc,D V M,3040 Universal Blvd,Weston,33331-3573,25.93568,-80.201431,13.4,54.68,Pharmaceutical Manufacturing,"8,027,895.90",56,56,Private,Subsidiary,Israel
+"Sproutloud Media Networks, LLC",Sunrise,15431 Sw 14Th St,Sunrise,33326-1937,26.1031615,-80.3573365,13.35,46.32,Data Processing,"12,690,285",80,80,Private,Independent,United States
+East Florida Supply Chain Service Center,,10094 Premier Pkwy,Miramar,33025-3210,25.9739745,-80.2784095,13.25,53.11,Hospitals,"14,871,539",200,200,Private,Independent,United States
+"Aveva Drug Delivery Systems, Inc.",Aveva,3250 Commerce Pkwy,Miramar,33025-3907,25.9785393,-80.2827417,13.18,52.88,Pharmaceutical Manufacturing,"81,165,901",80,80,Private,Subsidiary,Canada
+Tropical Financial Credit Union,,3050 Corporate Way,Miramar,33025-6548,25.9810483,-80.2855014,13.16,52.76,Banking,"26,239,475",120,190,Private,Parent,United States
+"Medical Acquisition Group, LLC",,1770 Nw 127Th Way,Coral Springs,33071-5416,26.2513377,-80.2962167,13.02,35.42,Investment Services,"10,000,000",,30,Private,Parent,United States
+"Dormakaba Workforce Solutions, LLC",Kaba Workforce Solutions,3015 N Commerce Pkwy,Miramar,33025-3927,25.9813135,-80.2816637,12.99,52.68,Computer Programming,"9,377,120",66,66,Private,Subsidiary,Switzerland
+Easyworkforce Software Inc.,,3141 Commerce Pkwy,Miramar,33025-3944,25.9799562,-80.2795022,12.97,52.73,Computer Programming,"5,674,497.10",48,48,Private,Independent,United States
+"Ambulatory Surgical Facility of South Florida, L.L.L.P.",Memorial Same Day Surgery Center East,501 N Flamingo Rd,Pembroke Pines,33028-1016,26.0113218,-80.3112566,12.94,51.22,Physicians and Health Practitioners,"10,203,447",,80,Partnership,Parent,United States
+"Renal Carepartners At Memorial West, LLC",,601 N Flamingo Rd Ste 109,Hollywood,33028-1007,26.0118983,-80.3096105,12.84,51.16,Outpatient Care,"5,852,393.20",25,250,Private,Subsidiary,United States
+Cell Science Systems Corporation,Alcat Worldwide,852 S Military Trl,Deerfield Beach,33442-2985,26.3055019,-80.1266686,12.71,28.69,Diagnostic Laboratories,"11,399,786",80,80,Private,Independent,United States
+"South Florida Dentistry For Children & Orthodontics, PA",,10188 Nw 31St St,Coral Springs,33065-3913,26.2690246,-80.2621223,12.54,33.45,Dentists,"5,509,353.20",60,100,Private,Parent,United States
+Med-Care Medical Inc.,,1052 S Powerline Rd,Deerfield Beach,33442-8119,26.3033976,-80.1518466,12.53,29.12,Health and Personal Care Wholesale,"10,000,000",103,103,Private,Independent,United States
+"Hamilton Group Funding, Inc.",,1551 Sawgrass Corporate Pkwy Ste 300,Sunrise,33323-2832,26.1414796,-80.3421549,12.41,43.51,Banking,"55,441,162",,340,Private,Parent,United States
+"Mednax, Inc.",,1301 Concord Ter,Sunrise,33323-2843,26.1338501,-80.342138,12.36,44,Physicians and Health Practitioners,"3,513,542,000",,"16,085",Public,Parent,United States
+"Pediatrix Medical Group, Inc.",,1301 Concord Ter,Sunrise,33323-2843,26.1338501,-80.342138,12.36,44,Physicians and Health Practitioners,"92,229,744",105,895,Private,Subsidiary,United States
+"American Anesthesiology, Inc.",Mosaic Ansthsia & Prioprtve Srvcs,1301 Concord Ter,Sunrise,33323-2843,26.1338501,-80.342138,12.36,44,Physicians and Health Practitioners,"45,965,275",34,477,Private,Subsidiary,United States
+"Pediatrix Medical Group of Arkansas, P.A.",,1301 Concord Ter,Fort Lauderdale,33323-2843,26.1338501,-80.342138,12.36,44,Physicians and Health Practitioners,"9,195,343",116,116,Private,Subsidiary,United States
+"Obstetrix Medical Group, Inc.",,1301 Concord Ter,Fort Lauderdale,33323-2843,26.1338501,-80.342138,12.36,44,Physicians and Health Practitioners,"11,783,516",2,85,Private,Subsidiary,United States
+"American Anesthesiology Associates of Florida, Inc.",,1301 Concord Ter,Sunrise,33323-2843,26.1338501,-80.342138,12.36,44,Physicians and Health Practitioners,"6,174,376",79,79,Private,Subsidiary,United States
+"Mednax Services, Inc.",,1301 Concord Ter,Fort Lauderdale,33323-2843,26.1338501,-80.342138,12.36,44,Physicians and Health Practitioners,"7,868,152.10",,37,Private,Subsidiary,United States
+Hose-Mccann Telephone Co Inc,Hose Mccann Communications,1241 W Newport Center Dr,Deerfield Beach,33442-7738,26.3004479,-80.1261965,12.36,29.03,Communications Equipment Manufacturing,"6,323,319",,40,Private,Parent,United States
+"Bolton Medical, Inc.",Terumo Aortic,799 International Pkwy,Sunrise,33325-6220,26.13048,-80.341757,12.33,44.2,Medical Equipment and Supplies,"16,539,316",64,64,Private,Subsidiary,Spain
+Arf Financial LLC,,1300 Concord Ter Ste 310,Sunrise,33323-2899,26.1351864,-80.340978,12.3,43.88,Banking,"11,970,501",50,50,Private,Independent,United States
+"Bfs Capital, Inc.",Business Financial Services,3301 N University Dr Ste 300,Coral Springs,33065-4149,26.2719844,-80.2496001,12.27,32.97,Banking,"17,778,391",,237,Private,Parent,United States
+"Business Financial Services, Inc.",BFS Capital,3301 N University Dr Ste 300,Coral Springs,33065-4149,26.2719844,-80.2496001,12.27,32.97,Banking,"13,097,870",,70,Private,Parent,United States
+Data Meaning Services Group Inc,,3301 N University Dr Ste 400,Coral Springs,33065-4149,26.2719844,-80.2496001,12.27,32.97,Computer Programming,"5,349,885.90",35,35,Private,Independent,United States
+"Cbm of America, Inc.",CBMA,1455 W Newport Center Dr,Deerfield Beach,33442-7709,26.2978006,-80.1255422,12.18,29.21,Computer System Design Services,"58,001,820",40,300,Private,Parent,United States
+Studio Make-Up Corporation,,1441 W Newport Center Dr,Deerfield Beach,33442-7709,26.2975624,-80.12672,12.16,29.24,Health and Personal Care Wholesale,"34,489,277",100,100,Private,Independent,United States
+Chase,Chase,14001 Nw 8Th St,Sunrise,33325-6267,26.1319176,-80.3372328,12.05,44,Banking,"6,035,559.20",78,78,Private,Independent,United States
+"Nutranext, LLC",,1301 Sawgrass Corporate Pkwy,Sunrise,33323-2813,26.135824,-80.336609,12.03,43.73,Health and Personal Care Wholesale,"608,176,640",,510,Private,Subsidiary,United States
+"Rainbow Light Nutritional Systems, Inc.",Rainbow Light,1301 Sawgrass Corporate Pkwy,Sunrise,33323-2813,26.135824,-80.336609,12.03,43.73,Pharmaceutical Manufacturing,"5,844,865.80",5,50,Private,Subsidiary,United States
+"Natural Vitality Holding Company, LLC",Natural Vitality,1301 Sawgrass Corporate Pkwy,Sunrise,33323-2813,26.135824,-80.336609,12.03,43.73,Health and Personal Care Wholesale,"11,367,411",,50,Private,Subsidiary,United States
+Mdr LLC,,14101 Nw 4Th St,Sunrise,33325-6209,26.1260896,-80.3368899,12.01,44.36,Pharmaceutical Manufacturing,"21,278,618",150,150,Partnership,Independent,United States
+Sanctuary Medical Center,,4800 N Federal Hwy Ste 103B,Boca Raton,33431-5145,26.2900863,-80.0948924,11.98,29.51,Physicians and Health Practitioners,"5,151,316.20",,60,Private,Parent,United States
+"Hygenic Laboratories and Cosmetics, Inc.",Hygenic Cosmetics,5001 Nw 13Th Ave Ste N,Pompano Beach,33064-8607,26.2933514,-80.1424222,11.82,29.69,Health and Personal Care Wholesale,"6,422,062.90",30,30,Private,Independent,United States
+"Sheridan Healthcare, Inc.",Sheridan Children's Healthcare,1613 Nw 136Th Ave,Sunrise,33323-2864,26.1430151,-80.3316047,11.77,43.15,Physicians and Health Practitioners,"203,412,860",600,"3,000",Private,Subsidiary,United States
+"Sheridan Emergency Physician Services, Inc.",,1613 Nw 136Th Ave,Sunrise,33323-2896,26.1430151,-80.3316047,11.77,43.15,Physicians and Health Practitioners,"16,847,685",,554,Private,Subsidiary,United States
+"Sheridan Anesthesia Services of Georgia, P.C.",,1613 Nw 136Th Ave Ste 200,Sunrise,33323-2853,26.1430151,-80.3316047,11.77,43.15,Physicians and Health Practitioners,"10,257,460",,120,Private,Subsidiary,United States
+"Sheridan Children's Hospital Services, Inc",,1613 Nw 136Th Ave Bldg C,Fort Lauderdale,33323-2896,26.1430151,-80.3316047,11.77,43.15,Physicians and Health Practitioners,"5,549,568.20",118,118,Private,Subsidiary,United States
+Broadspire Services Inc,Broadspire,1391 Nw 136Th Ave,Fort Lauderdale,33323-2800,26.1386777,-80.3313442,11.72,43.42,Ambulatory Services,"63,813,957","1,300","2,150",Private,Subsidiary,United States
+"Assurance Financial Partners, LLC",,1401 Nw 136Th Ave Ste 400,Sunrise,33323-2861,26.1402597,-80.3310348,11.71,43.31,Investment Services,"117,000,000",131,131,Private,Independent,United States
+"Synergistix, Inc.",,480 Sawgrass Corporate Pkwy Ste 200,Sunrise,33325-6257,26.1271927,-80.3319102,11.71,44.17,Computer System Design Services,"12,937,069",65,65,Private,Independent,United States
+Ppi International Corp.,,1649 Nw 136Th Ave,Sunrise,33323-2802,26.1437716,-80.3301363,11.69,43.07,Medical Equipment and Supplies,"39,000,000",95,95,Private,Independent,United States
+"North Shore Holdings Lighthouse Point, Inc.",,4130 Ne 24Th Ave,Lighthouse Point,33064-8028,26.2820604,-80.0890884,11.55,30.04,Medical Equipment and Supplies,"8,169,017.80",30,30,Private,Subsidiary,United States
+"E-Builder, Inc.",,13450 W Sunrise Blvd Ste 600,Sunrise,33323-2946,26.1437079,-80.3243571,11.33,42.93,Computer Programming,"28,052,765",180,180,Private,Subsidiary,United States
+"Rina Usa, Inc.",,13450 W Sunrise Blvd Ste 350,Sunrise,33323-2949,26.1437079,-80.3243571,11.33,42.93,Data Processing,"5,021,536.80",15,55,Private,Subsidiary,Italy
+Processmap Corporation,,13450 W Sunrise Blvd Ste 160,Sunrise,33323-2948,26.1437079,-80.3243571,11.33,42.93,Computer Programming,"12,684,944",10,50,Private,Parent,United States
+"Coral Springs Surgical Center Building, LLC","Ambulatory Services Center, Amsurg",1725 N University Dr Ste 200,Coral Springs,33071-6053,26.2521287,-80.2524314,11.24,34.31,Physicians and Health Practitioners,"5,455,176.80",50,50,Private,Independent,United States
+Mission Critical Systems Inc.,,1347 E Sample Rd Ste 3,Pompano Beach,33064-6278,26.2756459,-80.1045126,10.87,30.56,Computer System Design Services,"32,000,000",,28,Private,Parent,United States
+Hollywood Hills Rehabilitation Center LLC,"HOLLYWOOD HILLS NURSING HOME, HOLLYWOOD PAVILLION",2421 Ne 32Nd Ct,Lighthouse Point,33064-8180,26.2713109,-80.0897648,10.82,30.78,Hospitals,"15,540,447",200,200,Private,Independent,United States
+"William J. Rand, M.D., P.A.",Rand Eye Institute,5 W Sample Rd,Pompano Beach,33064-3542,26.2755782,-80.1237101,10.67,30.71,Physicians and Health Practitioners,"20,299,191",115,115,Private,Independent,United States
+"Unipharma, LLC",,10200 Nw 67Th St,Tamarac,33321-6404,26.203587,-80.288807,10.63,38.26,Pharmaceutical Manufacturing,"48,634,598",126,126,Private,Independent,United States
+"Ksm Electronics, Inc.",,5607 Hiatus Rd Ste 600,Tamarac,33321-6409,26.1967428,-80.289708,10.44,38.72,Semiconductor and Other Electronic Component Manufacturing,"47,517,780",80,250,Private,Parent,United States
+Ivf Florida Reproductive Associates,,2960 N State Road 7 Ste 300,Margate,33063-5757,26.2639235,-80.2004955,10.41,32.51,Physicians and Health Practitioners,"5,866,249.10",32,32,Private,Independent,United States
+"Unipower, LLC",,210 N University Dr Ste 700,Coral Springs,33071-7321,26.2338977,-80.2550012,10.37,35.55,Semiconductor and Other Electronic Component Manufacturing,"31,578,487",55,130,Private,Parent,United States
+"Concurrent Real-Time, Inc.",,800 Nw 33Rd St,Pompano Beach,33064-2046,26.2707128,-80.1345715,10.27,31.15,Computer Programming,"17,575,624",60,125,Private,Subsidiary,United States
+"Innovative Manufacturing & Distribution Services, Inc",,2200 Nw 32Nd St Ste 700,Pompano Beach,33069-1098,26.269351,-80.1544539,10.19,31.46,Health and Personal Care Wholesale,"8,605,743.40",3,52,Private,Independent,United States
+"Milestone Utility Services, Inc.",,11830 Nw 4Th St,Plantation,33325-2416,26.123466,-80.306659,10.14,43.82,Computer System Design Services,"8,500,000",2,33,Private,Parent,United States
+"Mid-Florida Cardiology Specialists, P.A.",Midflorida Cardiology Specialists,4700 N Hiatus Rd Ste 151C,Sunrise,33351-7904,26.1840716,-80.2901434,10.06,39.54,Physicians and Health Practitioners,"7,037,239.10",68,68,Private,Independent,United States
+"Embassy Loans, Inc.",,10000 Stirling Rd Ste 5,Hollywood,33024-8067,26.0440373,-80.2798243,10.05,48.48,Banking,"6,643,248.10",33,33,Private,Independent,United States
+"Diabetic Care Rx, LLC","Patient Care America, DCRX Infusion",3890 Park Central Blvd N,Pompano Beach,33064-2264,26.2666065,-80.1453338,9.98,31.54,Pharmaceutical Manufacturing,"15,300,000",30,110,Private,Independent,United States
+Gdkn Corporation,"General Data Kommunic & Netwkng, General Data Communication & Networking",9700 Stirling Rd Ste 110,Hollywood,33024-8011,26.0440759,-80.2754446,9.82,48.4,Computer System Design Services,"17,000,000",401,401,Private,Independent,United States
+"Sunbelt Credit Solutions, LLC",,2000 Banks Rd Ste 213F,Margate,33063-7764,26.2547137,-80.1940448,9.68,33.01,Banking,"8,100,000.40",41,41,Private,Independent,United States
+We Florida Financial,,1982 N State Road 7,Margate,33063-5710,26.252359,-80.2007305,9.67,33.28,Banking,"19,419,708",10,113,Nonprofit,Parent,United States
+HealthSouth Sunrise Rehabilitation Hospital,,4399 N Nob Hill Rd,Sunrise,33351-5813,26.1782351,-80.2849187,9.6,39.8,Hospitals,"48,184,517",390,411,Private,Subsidiary,United States
+Urban Radio Broadcasting LLC,,134 S Dixie Hwy Ste 206,Hallandale,33009-5434,25.9838281,-80.1485715,9.58,50.91,Broadcasting and Media,"14,759,227",2,95,Private,Parent,United States
+"Alegro Industries, Inc.",,7880 N University Dr Ste 150,Tamarac,33321-2124,26.2205473,-80.2521265,9.57,36.35,Semiconductor and Other Electronic Component Manufacturing,"12,000,000",57,57,Private,Independent,United States
+Accesso Partners LLC,,100 N Federal Hwy Ste 400,Hallandale Beach,33009-4373,25.9846227,-80.1428147,9.52,50.82,Investment Services,"8,207,494.70",30,30,Private,Independent,United States
+Sia America Corp.,SIA Interactive,1062 Nw 1St Ct,Hallandale Beach,33009-3905,25.986292,-80.16355,9.49,50.86,Computer Programming,"25,000,000",610,610,Private,Independent,United States
+"Desjardins Bank, National Association",,1001 E Hallandale Beach Blvd,Hallandale Beach,33009-4429,25.98622,-80.1381044,9.41,50.68,Banking,"11,840,000",,25,Private,Subsidiary,Canada
+"Alternate Family Care, Inc","Ccrt Facilities, Family Therapy Institute Of South Florida",10001 W Oakland Park Blvd,Sunrise,33351-6925,26.1701718,-80.2839173,9.33,40.3,Outpatient Care,"10,613,654",30,225,Private,Parent,United States
+University Psychiatric Center Inc,University Pavilion Hospital,7425 N University Dr,Fort Lauderdale,33321-2901,26.2141989,-80.2526838,9.29,36.78,Hospitals,"6,858,544.80",100,100,Private,Subsidiary,United States
+"University Hospital, Ltd.",University Hospital and Medical Center,7201 N University Dr,Fort Lauderdale,33321-2996,26.21217,-80.254256,9.27,36.94,Hospitals,"105,922,420","1,100","1,100",Partnership,Subsidiary,United States
+Memorial Healthcare System,,7800 Sheridan St,Pembroke Pines,33024-2536,26.0296956,-80.2455491,9.01,48.87,Hospitals,"16,604,435.00",75,75,Private,Independent,United States
+"Electriduct, Inc.",,1650 Nw 18Th St Unit 801,Pompano Beach,33069-1634,26.2513347,-80.1468691,8.92,32.6,Semiconductor and Other Electronic Component Manufacturing,"6,274,815.10",30,30,Private,Independent,United States
+Network Managers Inc,,3140 W Pembroke Rd # 638,Hallandale Beach,33009-2017,25.995533,-80.1700192,8.92,50.28,Computer System Design Services,"10,117,000",25,25,Private,Independent,United States
+"Bankers Healthcare Group, LLC",,10234 W State Road 84,Davie,33324-4202,26.1060812,-80.2852736,8.88,44.5,Banking,"140,658,950",127,246,Private,Parent,United States
+"Holistix By The Sea, LLC",Holistix Treatment Centers,6261 W Atlantic Blvd,Margate,33063-5128,26.2357726,-80.2085363,8.82,34.52,Outpatient Care,"12,000,000",50,50,Private,Independent,United States
+"Elegant Beauty Supplies 15, Inc",,1209 S 30Th Ave,Hollywood,33020-5631,26.0006383,-80.1671474,8.54,49.91,Health and Personal Care Wholesale,"9,163,031.60",35,35,Private,Independent,United States
+Whoa Networks Inc,Whoa.com,7369 Sheridan St Ste 301,Hollywood,33024-2776,26.0318855,-80.2360523,8.5,48.58,Computer System Design Services,"16,278,742.00",15,65,Private,Parent,United States
+Transcapital Bank,,8850 W Oakland Park Blvd Ste 100,Sunrise,33351-7229,26.1676076,-80.2688048,8.39,40.15,Banking,"9,218,999.90",4,40,Private,Parent,United States
+"Hollywood Dermatology and Cosmetic Surgery Specialists, Pllc",,3850 Hollywood Blvd Ste 301,Hollywood,33021-6745,26.00912,-80.1829294,8.2,49.48,Physicians and Health Practitioners,"7,659,176.80",50,50,Private,Independent,United States
+South Broward Artificial Kidney Center Inc,,4401 Hollywood Blvd,Hollywood,33021-6609,26.0108232,-80.1877913,8.19,49.41,Outpatient Care,"8,348,100.70",35,35,Private,Independent,United States
+"Eye Surgery Associates, LLC",,300 S Park Rd Ste 300,Hollywood,33021-8353,26.0088188,-80.177175,8.12,49.44,Physicians and Health Practitioners,"6,649,808.90",40,60,Private,Parent,United States
+Abbott Informatics Corporation,Abbott Informatics,4000 Hollywood Blvd,Hollywood,33021-6751,26.0105815,-80.1835833,8.12,49.38,Computer System Design Services,"53,629,559",,423,Private,Subsidiary,United States
+"Healthcare Financial Systems, Inc",,4000 Hollywood Blvd Ste 164N,Hollywood,33021-6794,26.0105815,-80.1835833,8.12,49.38,Investment Services,"9,382,452",100,100,Private,Independent,United States
+Protek Solutions Inc,,49 N Federal Hwy Ste 356,Pompano Beach,33062-4304,26.2330635,-80.1032245,8.05,33.48,Computer System Design Services,"6,286,794.20",101,101,Private,Independent,United States
+Softvelocity Inc,,2335 E Atlantic Blvd Ste 410,Pompano Beach,33062-5244,26.2321879,-80.1003687,8.05,33.53,Software,"7,199,999.80",76,76,Private,Independent,United States
+Pharcomed Corp.,,8551 W Sunrise Blvd Ste 302,Plantation,33322-4007,26.1484454,-80.2645576,7.73,41.31,Health and Personal Care Wholesale,"9,566,395.80",100,100,Private,Independent,United States
+"Dermatology Consultants of South Florida, P.A.",,3000 N University Dr,Coral Springs,33065-5055,26.1624677,-80.2565692,7.55,40.24,Physicians and Health Practitioners,"14,672,939",10,170,Private,Parent,United States
+South Broward Hospital District,"Memorial Healthcare System, Memorial Regional Hospital",3501 Johnson St,Hollywood,33021-5421,26.0195318,-80.179802,7.46,48.74,Hospitals,"2,159,666,000",100,"9,200",Nonprofit,Parent,United States
+"Memorial Health Systems, Inc.",Memorial Regional Hospital,3501 Johnson St,Hollywood,33021-5421,26.0195318,-80.179802,7.46,48.74,Hospitals,"73,930,878",,600,Nonprofit,Subsidiary,United States
+"Vizuall, Inc",Net Insight,1200 S Pine Island Rd Ste 300,Plantation,33324-4463,26.1060056,-80.2614908,7.42,44.05,Computer System Design Services,"11,320,759",60,60,Private,Subsidiary,Sweden
+Orthopedic Associates USA P.A.,,350 N Pine Island Rd Ste 200,Plantation,33324-1849,26.1243551,-80.262536,7.4,42.86,Physicians and Health Practitioners,"5,764,595",31,31,Private,Independent,United States
+"Hygea Health Holdings, Inc.",,150 S Pine Island Rd Ste 200,Plantation,33324-2695,26.1184942,-80.2623618,7.39,43.24,Ambulatory Services,"43,277,855",,30,Private,Subsidiary,United States
+"Children's Medical Association, P A","Betancourt, Oscar Md, Children's Medical Association",8430 W Broward Blvd,Plantation,33324-2700,26.1190263,-80.2614472,7.33,43.19,Physicians and Health Practitioners,"8,100,809.10",,50,Private,Parent,United States
+"Point Blank Enterprises, Inc.","Protective Group, a Point Blank, The, PPI International",2102 Sw 2Nd St,Pompano Beach,33069-3116,26.2282418,-80.1490512,7.33,34.19,Medical Equipment and Supplies,"197,230,000",824,901,Private,Subsidiary,United States
+Dhb Armor Group Inc.,,2102 Sw 2Nd St,Pompano Beach,33069-3116,26.2282418,-80.1490512,7.33,34.19,Medical Equipment and Supplies,"29,204,643",2,780,Private,Independent,United States
+"Protective Products Enterprises, Inc.",,2102 Sw 2Nd St,Pompano Beach,33069-3116,26.2282418,-80.1490512,7.33,34.19,Medical Equipment and Supplies,"11,675,556",98,98,Partnership,Subsidiary,United States
+"Fort Lauderdale Eye Institute, Inc",,850 S Pine Island Rd,Plantation,33324-3118,26.1100061,-80.2598357,7.28,43.76,Physicians and Health Practitioners,"7,154,985",,70,Private,Parent,United States
+"Djsp Enterprises, Inc.",,900 S Pine Island Rd Ste 400,Plantation,33324-3920,26.1096669,-80.2588776,7.22,43.76,Banking,"69,076,729",3,802,Public,Independent,United States
+"Orthopedic Center of South Florida, P.A.",,600 S Pine Island Rd Ste 300,Fort Lauderdale,33324-3179,26.112798,-80.259226,7.22,43.56,Physicians and Health Practitioners,"18,000,000",63,100,Private,Parent,United States
+Columbia Hospital Corporation of South Broward,"Columbia HCA, Westside Regional Medical Center",8201 W Broward Blvd,Fort Lauderdale,33324-2701,26.123543,-80.259512,7.21,42.86,Hospitals,"218,679,410",900,900,Private,Subsidiary,United States
+"Outpatient Surgical Services, Ltd.",,301 Nw 82Nd Ave,Fort Lauderdale,33324-1811,26.1256045,-80.2594002,7.21,42.72,Physicians and Health Practitioners,"13,549,224",102,102,Partnership,Subsidiary,United States
+"Chetu, Inc.",,1248 N University Dr Ste 300,Plantation,33322-4728,26.141836,-80.255432,7.08,41.57,Computer System Design Services,"142,399,990",34,"1,000",Private,Parent,United States
+"Magic Leap, Inc.",,7500 W Sunrise Blvd,Plantation,33313-4497,26.1455067,-80.2532602,7.01,41.29,Computer Programming,"179,053,850",,"1,299",Private,Parent,United States
+Children's Medical Center PA,,4651 Sheridan St Ste 270,Hollywood,33021-3422,26.0331854,-80.1916303,6.85,47.93,Physicians and Health Practitioners,"10,381,054",,100,Private,Parent,United States
+International Medical Industries Inc.,IMI,2981 Gateway Dr,Pompano Beach,33069-4326,26.213528,-80.1635285,6.43,35.36,Medical Equipment and Supplies,"7,825,543.90",30,30,Private,Independent,United States
+"Hmx Services of New York, LLC",HM Compounding,3265 W Mcnab Rd,Pompano Beach,33069-4807,26.2104757,-80.1700222,6.32,35.64,Health and Personal Care Wholesale,"10,935,000",30,30,Private,Independent,United States
+Intermedix Corporation,,6451 N Federal Hwy Ste 1000,Fort Lauderdale,33308-1424,26.2078173,-80.1084844,6.3,35.25,Software,"328,665,830",70,"2,500",Private,Subsidiary,United States
+"Financial Aid Management For Education, Inc.",Fame,6451 N Federal Hwy Ste 501,Fort Lauderdale,33308-1416,26.2078173,-80.1084844,6.3,35.25,Computer Programming,"13,459,014",150,150,Private,Independent,United States
+"Centralreach, LLC",,6451 N Federal Hwy Ste 501,Fort Lauderdale,33308-1416,26.2078173,-80.1084844,6.3,35.25,Computer Programming,"12,991,226",,100,Private,Parent,United States
+"Profab Electronics, Inc.",,2855 W Mcnab Rd,Pompano Beach,33069-4803,26.2114001,-80.1604762,6.25,35.46,Semiconductor and Other Electronic Component Manufacturing,"12,847,165",42,42,Private,Independent,United States
+"Princess Preserve, Inc.",Ritter's Printing,1660 W Mcnab Rd,Fort Lauderdale,33309-1001,26.2096064,-80.1674508,6.22,35.67,Business Support Services,"5,147,218.20",25,25,Private,Independent,United States
+First Transcontinental Financial Group Corporation,,6278 N Federal Hwy,Fort Lauderdale,33308-1916,26.2055569,-80.1076306,6.17,35.4,Banking,"9,547,787.70",132,132,Private,Independent,United States
+Hygea Holdings Corp,,7050 Nw 4Th St,Plantation,33317-2200,26.1251088,-80.2423473,6.15,42.45,Ambulatory Services,"44,760,880",40,50,Private,Parent,United States
+"Giacare, Inc.",,6245 N Federal Hwy Ste 201,Fort Lauderdale,33308-1915,26.204999,-80.1089832,6.1,35.45,Computer System Design Services,"5,137,939",,45,Private,Parent,United States
+Blm Technologies of Florida LLC,Evoltec,1321 Nw 65Th Pl Ste A,Fort Lauderdale,33309-1911,26.2081104,-80.1617844,6.04,35.7,Computer System Design Services,"8,669,074.10",45,45,Private,Independent,United States
+Southern Auto Finance Company,Safco,6700 N Andrews Ave Fl 5,Fort Lauderdale,33309-2199,26.2093973,-80.141946,6.02,35.4,Banking,"26,510,324",80,80,Private,Independent,United States
+"Engagepoint, Inc.",,6700 N Andrews Ave Ste 210,Fort Lauderdale,33309-2203,26.2093973,-80.141946,6.02,35.4,Computer Programming,"5,088,564.90",,26,Private,Parent,United States
+"American Document Management Group, Inc.",,2972 Nw 60Th St,Fort Lauderdale,33309-1735,26.2004061,-80.1856121,6,36.53,Data Processing,"10,865,553",14,118,Private,Parent,United States
+"Radgov, Inc.",,6750 N Andrews Ave Ste 200,Fort Lauderdale,33309-2180,26.2090213,-80.1405032,6,35.42,Computer Programming,"6,529,245.90",40,130,Private,Parent,United States
+"Bio-Tech Medical Software, Inc.",BioTrackTHC,6750 N Andrews Ave Ste 325,Fort Lauderdale,33309-2142,26.2090213,-80.1405032,6,35.42,Software,"5,019,013.90",62,62,Private,Independent,United States
+"Equity Auto Finance, Inc.",,2700 W Cypress Creek Rd Ste A101,Fort Lauderdale,33309-1742,26.2018994,-80.1817524,6,36.37,Banking,"5,203,938",25,25,Private,Independent,United States
+"Clinical Diagnostic Solutions, Inc.",,1800 Nw 65Th Ave,Plantation,33313-4544,26.1477534,-80.2357038,5.99,40.83,Pharmaceutical Manufacturing,"8,217,604.60",38,38,Private,Subsidiary,Sweden
+Rx For Fleas Inc,Fleabusters,6555 Powerline Rd Ste 412,Fort Lauderdale,33309-2051,26.2077014,-80.1571623,5.97,35.68,Pharmaceutical Manufacturing,"21,328,072",200,200,Private,Independent,United States
+Hope Destination Inc,,6460 Nw 5Th Way,Fort Lauderdale,33309-6112,26.208064,-80.1498234,5.94,35.57,Hospitals,"17,223,837",100,100,Private,Independent,United States
+Dvs Financial,Mass Mutual,1000 Corporate Dr Ste 700,Fort Lauderdale,33334-3638,26.207721,-80.1375374,5.92,35.48,Investment Services,"9,117,369.70",60,60,Private,Independent,United States
+Allied Telecommunications Ltd,,1500 Nw 65Th Ave,Fort Lauderdale,33313-4507,26.1437512,-80.2356384,5.91,41.09,Communications Equipment Manufacturing,"15,000,000",25,25,Private,Independent,United States
+Skillstorm Commercial Services LLC,,6418 Nw 5Th Way,Fort Lauderdale,33309-6112,26.2068471,-80.1501082,5.86,35.66,Computer System Design Services,"18,127,834",430,430,Private,Independent,United States
+Hte-Ucs Inc,,2005 W Cypress Creek Rd Ste 100,Fort Lauderdale,33309-1835,26.2037237,-80.1690658,5.85,36.09,Computer Programming,"8,788,021.10",65,147,Private,Independent,United States
+"Engagepoint, Inc.",,6600 N Andrews Ave Ste 570,Fort Lauderdale,33309-2189,26.2069087,-80.1438454,5.85,35.59,Computer Programming,"5,288,620",25,25,Private,Independent,United States
+"Credito Real USA Finance, LLC",,1475 W Cypress Creek Rd Ste 300,Fort Lauderdale,33309-1931,26.204918,-80.1631796,5.84,35.94,Banking,"19,057,573",50,50,Private,Subsidiary,Mexico
+"Pinnacle Software, Inc.",Pinnacle Hospitality Systems,2001 W Cypress Creek Rd Ste 103,Fort Lauderdale,33309-1865,26.203396,-80.1691694,5.83,36.11,Computer System Design Services,"25,399,441",37,68,Private,Parent,United States
+Delphi Behavioral Health Group LLC,,1901 W Cypress Creek Rd,Fort Lauderdale,33309-1894,26.2035725,-80.1681938,5.83,36.09,Outpatient Care,"60,000,000",,450,Private,Parent,United States
+Datacore Software Corporation,DataCore,1901 W Cypress Creek Rd Ste 200,Fort Lauderdale,33309-1864,26.2035725,-80.1681938,5.83,36.09,Magnetic and Optical Media Manufacturing,"33,539,715",65,200,Private,Parent,United States
+Sportsline.com,,2200 W Cypress Creek Rd,Fort Lauderdale,33309-1825,26.2016771,-80.1745156,5.82,36.29,Data Processing,"17,612,877",188,250,Private,Subsidiary,United States
+Arnet Pharmaceutical Corporation,"Natura-Vigor, Sun Naturals",2525 Davie Rd Ste 330,Davie,33317-7403,26.0909482,-80.2301469,5.81,44.53,Pharmaceutical Manufacturing,"109,052,410",350,350,Private,Independent,United States
+"Latin 3, Inc.",,6400 N Andrews Ave Ste 490,Fort Lauderdale,33309-9105,26.2059101,-80.1459971,5.78,35.68,Data Processing,"8,216,441.20",150,150,Private,Independent,United States
+Bitdefender Inc.,f/k/a: Bitdefender,6301 Nw 5Th Way Ste 4300,Fort Lauderdale,33309-6124,26.2055992,-80.1513266,5.78,35.76,Computer Programming,"21,094,873",115,115,Private,Subsidiary,Netherlands
+Integrated Regional Laboratories,IRL,5361 Nw 33Rd Ave,Fort Lauderdale,33309-6313,26.1927819,-80.1932136,5.77,37.15,Diagnostic Laboratories,"41,385,563",250,800,Private,Subsidiary,United States
+Mako Surgical Corp.,Stryker Mako,2555 Davie Rd,Fort Lauderdale,33317-7424,26.0893401,-80.228733,5.77,44.62,Medical Equipment and Supplies,"124,619,920",315,436,Private,Subsidiary,United States
+Wcs Lending LLC,,3613 N 29Th Ave,Hollywood,33020-1003,26.0413238,-80.1652726,5.76,47.11,Mortgage and Credit,"22,062,662",45,75,Private,Parent,United States
+Andrx Corporation,,4955 Orange Dr,Davie,33314-3902,26.0673484,-80.2131338,5.76,45.88,Pharmaceutical Manufacturing,"229,016,310",230,"1,680",Private,Subsidiary,Ireland
+Orbusneich Medical Inc.,OrbusNeich,5363 Nw 35Th Ave,Fort Lauderdale,33309-6315,26.1907852,-80.1961608,5.76,37.33,Medical Equipment and Supplies,"5,709,657.20",30,30,Private,Subsidiary,Hong Kong SAR
+First International Exchange Group,Bank Atlantic,2100 W Cypress Creek Rd,Fort Lauderdale,33309-1823,26.2018167,-80.1698942,5.74,36.23,Banking,"52,238,998",200,"1,244",Private,Subsidiary,United States
+Liberty Power Holdings LLC,,2100 W Cypress Creek Rd Ste 130,Fort Lauderdale,33309-1823,26.2018167,-80.1698942,5.74,36.23,Electricity Generation and Distribution,"22,539,703",,65,Private,Subsidiary,United States
+"Citrix Systems, Inc.",Citrix,851 W Cypress Creek Rd,Fort Lauderdale,33309-2040,26.2039173,-80.1539354,5.68,35.9,Software,"3,010,564,000",600,"8,400",Public,Parent,United States
+Catholic Health Services Inc,,4790 N State Road 7,Lauderdale Lakes,33319-5860,26.1835537,-80.2030015,5.62,37.91,Physicians and Health Practitioners,"11,908,478",65,70,Private,Parent,United States
+"Anesco North Broward, LLC",,3601 W Commercial Blvd Ste 5,Fort Lauderdale,33309-3392,26.1876034,-80.1970959,5.61,37.55,Physicians and Health Practitioners,"15,598,116",90,90,Private,Independent,United States
+"Aaj Computer Services, Inc.",OZ,500 W Cypress Creek Rd Ste 570,Fort Lauderdale,33309-6157,26.2026719,-80.1511008,5.58,35.95,Computer System Design Services,"9,000,000",,50,Private,Independent,United States
+"Henderson Behavioral Health, Inc.",,4740 N State Road 7 Ste 201,Lauderdale Lakes,33319-5839,26.1826,-80.202865,5.57,37.97,Outpatient Care,"37,612,694",50,600,Nonprofit,Parent,United States
+Signature Consultants LLC,"Signature Commercial Solutions, Sigservco",200 W Cypress Creek Rd Ste 400,Fort Lauderdale,33309-2175,26.2025213,-80.1495745,5.56,35.95,Computer System Design Services,"314,099,240",100,"1,450",Private,Parent,United States
+Signature Commercial Solutions LLC,"Signature Consultants, Hunter Hollis",200 W Cypress Creek Rd Ste 400,Fort Lauderdale,33309-2175,26.2025213,-80.1495745,5.56,35.95,Computer System Design Services,"35,559,086",100,100,Private,Subsidiary,United States
+"Saltzman, Tanis, Pittell, Levin & Jacobson, Inc.",Pediatrics Associates,4620 N State Road 7 Ste 316,Lauderdale Lakes,33319-5867,26.1819656,-80.2015572,5.48,38,Physicians and Health Practitioners,"55,077,553",75,415,Private,Parent,United States
+"Guardia, LLC",,5900 N Andrews Ave Ste 1000,Fort Lauderdale,33309-2367,26.2012318,-80.1480918,5.46,36.02,Software,"5,083,850.90",,53,Private,Parent,United States
+Eci Telecom Inc.,,5100 Nw 33Rd Ave Ste 150,Fort Lauderdale,33309-6362,26.1886,-80.189896,5.42,37.38,Communications Equipment Manufacturing,"10,535,657",45,70,Private,Subsidiary,Israel
+Netsurion LLC,,100 W Cypress Creek Rd Ste 530,Fort Lauderdale,33309-2181,26.2003651,-80.1500978,5.41,36.1,Computer System Design Services,"13,847,609",35,110,Private,Parent,United States
+Color Reflections of Fort Lauderdale LLC,Color Reflections,2960 Stirling Rd,Hollywood,33020-1032,26.0474119,-80.1687606,5.41,46.73,Business Support Services,"5,849,719",10,50,Private,Independent,United States
+Brightstar Credit Union,,5901 Del Lago Cir,Sunrise,33313-6341,26.1364534,-80.2287766,5.39,41.47,Banking,"21,561,281",40,150,Nonprofit,Parent,United States
+Florida Institute of Health,,4850 W Oakland Park Blvd,Lauderdale Lakes,33313-7260,26.1630883,-80.216707,5.35,39.49,Diagnostic Laboratories,"8,265,272.10",292,295,Partnership,Parent,United States
+Gamingmodz Inc,,2201 Stirling Rd Ste 101,Fort Lauderdale,33312-6626,26.0487501,-80.1702866,5.35,46.65,Computer System Design Services,"10,000,000",45,45,Private,Independent,United States
+"Natbank, National Association",,4031 Oakwood Blvd,Hollywood,33020-7119,26.0468021,-80.1590881,5.31,46.68,Banking,"8,156,999.60",35,35,Private,Independent,United States
+"Strictly Technology, LLC","Strictly Tech, Strictly Technology",2300 Nw 55Th Ct Ste 110,Fort Lauderdale,33309-2736,26.1939533,-80.1736947,5.3,36.81,Computer Programming,"30,000,000",25,25,Private,Independent,United States
+"Edashop, Inc.",Anacom Electronica,1231 Stirling Rd Ste 102,Dania,33004-3567,26.0465172,-80.1533467,5.28,46.65,Software,"5,000,000",55,55,Private,Independent,United States
+"Miracle Line, Inc.",Miracle Products Co,1740 Sw 54Th Ter,Fort Lauderdale,33317-6026,26.0979404,-80.2238313,5.27,43.97,Health and Personal Care Wholesale,"12,490,247",60,70,Private,Parent,United States
+"Fort Lauderdale Hospital, Inc.",,5757 N Dixie Hwy,Oakland Park,33334-4135,26.197862,-80.133289,5.26,36.12,Hospitals,"21,516,247",130,130,Private,Subsidiary,United States
+"Ipvision, LLC",Ipvision,5819A N Andrews Way Ste A,Fort Lauderdale,33309-2359,26.1980445,-80.1505966,5.25,36.26,Computer System Design Services,"10,000,000",4,40,Private,Parent,United States
+"Affinity Internet, Inc.",,3250 W Commercial Blvd Ste 200,Fort Lauderdale,33309-3459,26.1849712,-80.1908194,5.24,37.64,Data Processing,"12,789,279",25,227,Private,Subsidiary,United States
+Symmetry Management Corp.,BCC Financial Management Services,3230 W Commercial Blvd Ste 200,Fort Lauderdale,33309-3400,26.1849703,-80.1899911,5.21,37.63,Physicians and Health Practitioners,"7,002,031.80",75,75,Private,Independent,United States
+"ACR Electronics, Inc.",,5757 Ravenswood Rd,Fort Lauderdale,33312-6645,26.0510798,-80.168935,5.17,46.48,Communications Equipment Manufacturing,"63,705,463",200,200,Private,Subsidiary,Netherlands
+The Experts Inc,,2400 E Commercial Blvd Ste 614,Fort Lauderdale,33308-4051,26.1889189,-80.1145488,4.94,36.59,Computer Programming,"34,529,282",,400,Private,Parent,United States
+Inmed Diagnostic Services of Florida LLC,,2400 E Commercial Blvd Ste 826,Fort Lauderdale,33308-4054,26.1889189,-80.1145488,4.94,36.59,Ambulatory Services,"8,154,339.80",,95,Private,Parent,United States
+"Omnicomm Systems, Inc.",,2101 W Commercial Blvd Ste 3500,Fort Lauderdale,33309-3047,26.1887569,-80.1725973,4.94,37.14,Computer Programming,"27,104,481",50,112,Private,Subsidiary,United States
+Atlas Marine Systems Inc,,1801 S Perimeter Rd Ste 150,Fort Lauderdale,33309-7140,26.1890595,-80.1672738,4.85,37.06,Semiconductor and Other Electronic Component Manufacturing,"6,664,828.80",75,75,Private,Independent,United States
+"Holy Cross Hospital, Inc.",Holy Cross Medical Group (HCH),4725 N Federal Hwy,Fort Lauderdale,33308-4668,26.1866679,-80.1196531,4.69,36.78,Hospitals,"470,372,990","2,085","2,300",Nonprofit,Subsidiary,United States
+Amisub North Ridge Hospital Inc,Amisub,4725 N Federal Hwy,Fort Lauderdale,33308-4603,26.1866679,-80.1196531,4.69,36.78,Hospitals,"11,006,292",989,989,Private,Subsidiary,United States
+"Cardiology Associates of Fort Lauderdale, P.A. (inc)",,4725 N Federal Hwy Ste 401,Fort Lauderdale,33308-4603,26.1866679,-80.1196531,4.69,36.78,Hospitals,"8,699,999.80",50,50,Private,Independent,United States
+North Broward Hospital District,"BROWARD HEALTH MEDICAL CENTER, BROWARD HEALTH NORTH",1800 Nw 49Th St,Fort Lauderdale,33309-3092,26.185175,-80.16652,4.58,37.31,Hospitals,"1,035,556,000",400,"7,000",Nonprofit,Parent,United States
+"Unit Dose Services, LLC",,321 Bryan Rd,Dania Beach,33004-2363,26.057898,-80.156807,4.53,45.9,Health and Personal Care Wholesale,"10,136,692",30,30,Private,Independent,United States
+Nearpod Inc.,,1855 Griffin Rd Ste A-290,Dania Beach,33004-2200,26.0594381,-80.1615227,4.49,45.84,Computer Programming,"41,296,673",,200,Partnership,Parent,United States
+"Lumbermen's Credit Association of Ocala, Inc.",,4520 Ne 18Th Ave 4Th Fl,Oakland Park,33334-5657,26.1839197,-80.1218561,4.46,36.98,Business Support Services,"6,690,549.90",100,225,Private,Independent,United States
+"Be Powerful, LLC",,3149 Sw 42Nd St # 200,Fort Lauderdale,33312-6802,26.07018,-80.1857999,4.46,45.35,Health and Personal Care Wholesale,"15,810,721",100,100,Private,Independent,United States
+"Bpi Sports, LLC",,3149 Sw 42Nd St Ste 200,Fort Lauderdale,33312-6802,26.07018,-80.1857999,4.46,45.35,Health and Personal Care Wholesale,"41,818,764",65,65,Private,Independent,United States
+"Circuitronix, LLC",,3131 Sw 42Nd St,Fort Lauderdale,33312-6802,26.0701576,-80.184919,4.43,45.34,Semiconductor and Other Electronic Component Manufacturing,"89,060,600",,400,Private,Parent,United States
+"American National Bank, N.A.",American National Bank,4301 N Federal Hwy,Fort Lauderdale,33308-5214,26.1811688,-80.1200457,4.32,37.16,Banking,"13,938,000",27,27,Private,Independent,United States
+Palladium Technologies Inc.,,3900 Sw 30Th Ave,Fort Lauderdale,33312-6827,26.0738738,-80.1808369,4.08,45.04,Computer Programming,"6,591,341",,28,Private,Parent,United States
+"Plantation General Hospital, L.P.",Plantation General Hospital,401 Nw 42Nd Ave,Plantation,33317-2882,26.1264969,-80.2053767,3.86,41.78,Hospitals,"376,528,690",,600,Partnership,Subsidiary,United States
+"Valeda Company, LLC","Q Straint USA, Valeda Company",4031 Ne 12Th Ter,Oakland Park,33334-4671,26.1770022,-80.1310064,3.86,37.53,Medical Equipment and Supplies,"12,363,347",,70,Private,Parent,United States
+"Tropical Assemblies, Inc.",,4066 Ne 5Th Ave,Fort Lauderdale,33334-2202,26.177657,-80.140445,3.83,37.56,Semiconductor and Other Electronic Component Manufacturing,"14,936,765",55,55,Private,Independent,United States
+"Marlo Electronics, Inc.",,2412 Nw 35Th St,Boca Raton,33431-5412,26.175859,-80.138939,3.71,37.67,Semiconductor and Other Electronic Component Manufacturing,"8,039,483.10",71,71,Private,Independent,United States
+"Westside Outpatient Center, L.L.C.",Palms Wellington Surgical Center,460 N State Road 7 Ste 100,Royal Palm Beach,33411-3514,26.12565,-80.201696,3.63,41.79,Hospitals,"5,099,571.20",30,30,Private,Independent,United States
+The Chrysalis Center Inc,,3800 W Broward Blvd Ste 100,Fort Lauderdale,33312-1018,26.1206333,-80.1997981,3.5,42.1,Physicians and Health Practitioners,"9,397,227.30",,99,Private,Parent,United States
+"Lseven, Inc.","L7 Solutions, LSeven Networks",2830 W State Road 84 Ste 104,Fort Lauderdale,33312-4826,26.0844444,-80.1781692,3.39,44.29,Computer System Design Services,"6,551,036.80",34,34,Private,Independent,United States
+Gaddis Capital Corporation,,221 W Oakland Park Blvd,Fort Lauderdale,33311-1757,26.1668489,-80.1482226,3.09,38.37,Banking,"33,850,872",30,300,Private,Independent,United States
+Physicians Choice Lab Services LLC,PCLS,1883 W State Road 84 Ste 106,Fort Lauderdale,33315-2232,26.0910508,-80.1654596,2.56,43.71,Diagnostic Laboratories,"7,051,343",27,27,Private,Independent,United States
+"Signet Diagnostics Imaging Services Group, LLC",,1515 N Federal Hwy Ste 405,Boca Raton,33432-1954,26.147041,-80.12024,2.23,39.51,Physicians and Health Practitioners,"7,551,304.80",,400,Private,Parent,United States
+Furtenburg Inc,,1200 N Federal Hwy,Boca Raton,33432-2803,26.1401353,-80.1195024,1.93,39.98,Banking,"82,945,763",234,234,Private,Independent,United States
+Broward General Medical Center,Broward Health Medical Center,1600 S Andrews Ave,Fort Lauderdale,33316-2589,26.1018675,-80.1405904,1.42,42.75,Hospitals,"455,744,930",86,86,Private,Independent,United States
+"Modular Thermal Technologies, LLC",Life Wear Technologies,1520 Sw 5Th Ct,Pompano Beach,33069-3523,26.1152185,-80.1617189,1.24,42.03,Pharmaceutical Manufacturing,"8,169,017.80",,30,Private,Parent,United States
+"Veritas Farms, Inc.",Veritas Farms,1512 E Broward Blvd Ste 300,Fort Lauderdale,33301-2147,26.1224426,-80.127876,0.96,41.25,Pharmaceutical Manufacturing,"7,291,907.80",10,71,Public,Parent,United States
+"Scribeamerica, LLC",,1200 E Las Olas Blvd Ste 201,Fort Lauderdale,33301-2367,26.1188486,-80.131082,0.8,41.52,Ambulatory Services,"77,500,000",,"5,000",Private,Subsidiary,United States
+Synergylabs LLC,,888 Se 3Rd Ave Ste 301,Fort Lauderdale,33316-1159,26.1116343,-80.1393219,0.78,42.07,Pharmaceutical Manufacturing,"6,000,000",45,45,Private,Independent,United States
+"Universal Court Reporting, Inc.",Universal Legal,888 E Las Olas Blvd Ste 508,Fort Lauderdale,33301-2285,26.1189305,-80.1342662,0.61,41.53,Business Support Services,"7,002,120",,45,Private,Independent,United States
+"U.S. Anesthesia Partners, Inc.",,450 E Las Olas Blvd Ste 850,Fort Lauderdale,33301-4244,26.1188684,-80.1387823,0.37,41.57,Physicians and Health Practitioners,"38,258,076",,426,Private,Subsidiary,United States
+Data2intel Corporation,Data2Intel,500 E Broward Blvd Ste 1710,Fort Lauderdale,33394-3005,26.1218986,-80.1382352,0.32,41.36,Computer Programming,"5,339,742.20",150,150,Private,Independent,United States
+7333 Coral Building Inc,"HOME EQUITY MORTGAGE ASSOCIATES, HOME EQUIOTY MORTGAGE ASSOCIATES",350 E Las Olas Blvd Ste 1600,Fort Lauderdale,33301-4247,26.1186942,-80.1401878,0.32,41.6,Banking,"16,016,945",52,52,Private,Independent,United States
+Bbx Capital Corporation,Hoffman's Chocolates,401 E Las Olas Blvd Ste 800,Fort Lauderdale,33301-4284,26.1201192,-80.1389331,0.31,41.49,Banking,"946,870,970",,"6,914",Public,Parent,United States
+"Florida Asset Resolution Group, LLC",,401 E Las Olas Blvd Ste 130,Fort Lauderdale,33301-2477,26.1201192,-80.1389331,0.31,41.49,Investment Services,"18,296,993",504,504,Private,Subsidiary,United States
+Harbor Beach Capital LLC,,401 E Las Olas Blvd Ste 130,Fort Lauderdale,33301-2477,26.1201192,-80.1389331,0.31,41.49,Banking,"16,492,392.00",,235,Private,Parent,United States
+Tradestation Technologies Inc,,8050 Sw 10Th St Ste 2000,Fort Lauderdale,33324-3205,26.12196,-80.138412,0.31,41.36,Software,"21,299,414",145,150,Private,Subsidiary,Japan
+"Redcap Technologies, LLC",Redcap Automotive Service Valley,330 Himmarshee St Ste 210,Fort Lauderdale,33312-1712,26.1197887,-80.147109,0.29,41.58,Computer Programming,"9,779,999.70",27,27,Private,Subsidiary,United States
+"Templeton International, Inc.",,300 Se 2Nd St Ste 600,Fort Lauderdale,33301-1950,26.120334,-80.140142,0.24,41.48,Investment Services,"449,150,880",5,"1,346",Private,Subsidiary,United States
+"Templeton/Franklin Investment Services, Inc",,300 Se 2Nd St Ste 600,Fort Lauderdale,33301-1950,26.120334,-80.140142,0.24,41.48,Investment Services,"69,529,526",500,500,Private,Subsidiary,United States
+Templeton Investment Counsel LLC,,300 Se 2Nd St,Fort Lauderdale,33301-1923,26.120334,-80.140142,0.24,41.48,Investment Services,"5,064,829.80",,30,Private,Subsidiary,United States
+"Advanced Recovery Systems, LLC",,1 Financial Plz Ste 1800,Fort Lauderdale,33394-0011,26.121572,-80.139923,0.22,41.4,Outpatient Care,"18,797,010",,185,Private,Parent,United States
+Ri/Bbnm Acquisition Corp.,,200 Sw 1St Ave,Fort Lauderdale,33301-1875,26.1200646,-80.1441231,0.16,41.53,Investment Services,"33,009,594",,155,Private,Subsidiary,United States
+Kemet Corporation,,1 E Broward Blvd Ste 200,Fort Lauderdale,33301-1872,26.1227824,-80.14312,0.04,41.34,Semiconductor and Other Electronic Component Manufacturing,"1,260,554,000",,"14,850",Private,Subsidiary,Taiwan Region
